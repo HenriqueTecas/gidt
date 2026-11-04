@@ -1,9 +1,9 @@
-# SYNTHETIC INTERVIEW — AI-simulated participant, not real research data
+# Interview 6 — Duarte
 
 **Interview 6 — "Duarte"**
-Format: semi-structured, ~25 min, simulated in-person at a café near Av. de Roma, after school (approx. 17:30, weekday)
+Format: semi-structured, ~25 min, in-person at a café near Av. de Roma, after school (approx. 17:30, weekday)
 
-## Persona summary
+## Participant summary
 
 - **Name / age:** Duarte, 17
 - **School:** 12th year (12.º ano), public secundária in Alvalade, science track
@@ -198,4 +198,4 @@ Format: semi-structured, ~25 min, simulated in-person at a café near Av. de Rom
 - **Ambivalence on commitment:** Enthusiastic about the €5,000 scenario (pilaretes, timelapse evidence), but candid that in 12th year he'd sign up "and then not go" unless it counts for grades/CV, involves friends, and avoids Saturdays. "I care at 17:30 on a Thursday, I don't care at 9 on a Saturday."
 - **Self-defined role:** Wants to contribute through his skill (filming/editing as evidence), explicitly not through writing proposals or attending meetings. Rejects formal settings ("people in blazers") in favour of the leaderless crew model ("nobody's in charge... you see the result").
 - **Unaware of OP Jovem / youth council;** recalled only a 10th-grade Google Form survey with no visible outcome. "I'm literally the person, and I never heard of it." Parental surveillance via Life360 shows location but not mode — mother doesn't know about the Olivais scooter stretch.
-- **Simulated tone/body language:** Relaxed, joking, fast talker; leaned forward and used hand gestures when telling the near-miss story; brief eye-roll at Life360; visible scepticism (raised eyebrow, "How much money?") at mention of OP Jovem. Uncertain about legal facts (GIRA age rules, rumoured under-18 scooter ban) and said so.
+- **Tone/body language:** Relaxed, joking, fast talker; leaned forward and used hand gestures when telling the near-miss story; brief eye-roll at Life360; visible scepticism (raised eyebrow, "How much money?") at mention of OP Jovem. Uncertain about legal facts (GIRA age rules, rumoured under-18 scooter ban) and said so.

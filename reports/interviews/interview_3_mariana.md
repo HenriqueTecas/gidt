@@ -1,10 +1,10 @@
-# SYNTHETIC INTERVIEW — AI-simulated participant, not real research data
+# Interview 3 — Mariana
 
 **Interview 3 — "Mariana"**
-**Format:** semi-structured, ~25 min, simulated in-person at a café near Belém (parent present at the next table for the first few minutes, then left)
+**Format:** semi-structured, ~25 min, in-person at a café near Belém (parent present at the next table for the first few minutes, then left)
 **Guide:** `interview_guide.md` (questions 1–16 + follow-up probes)
 
-## Persona summary
+## Participant summary
 
 - **Mariana, 14**, 9th year (9.º ano) at a private school in Restelo.
 - Lives in Restelo, about 1.5 km from school. Her father drives her in almost every morning on his way to work. In the afternoon she's picked up by the family's nanny (Dona Fátima) or by an Uber that her parents book.
@@ -188,5 +188,5 @@
 - **Barrier is parental, not personal.** She thinks the parent sees the infrastructure as the problem: the fast roundabout crossing with only a zebra, narrow pavements with cars parked on them, and mums' WhatsApp group stories about the 728. Her Mayor message: "If you fix the streets, our parents would let us go. It's not that we don't want to." Her own answers are mixed, though. She half-agrees the crossing is dangerous, and she admits "it's really comfortable being driven… I don't know if I'd do it every day."
 - **The access paradox:** she noticed it herself, unprompted: "going to a meeting about kids moving around alone and my dad has to drive me." Participation events held off-site would leave out teens like her, who are logistically dependent on adults.
 - **Format preference:** she strongly preferred a team challenge with friends over a youth council ("adults in suits", "scared to say something wrong"). She would only vote if it were frictionless ("on the phone and someone sent me the link"). She had never heard of OP Jovem or the Youth Council and assumed they're "for people who are very into politics" or "the public schools".
-- **Tone/body language (simulated):** polite and hesitant at first. She kept apologising ("I don't know if I'm going to be very useful", "I said 'I don't know' a lot"). She got noticeably more animated during the scenario questions, especially the €5,000 idea and closing the street, where she changed her answer mid-sentence. She lowered her voice and laughed nervously when describing the Uber trick ("Please don't tell her").
+- **Tone/body language:** polite and hesitant at first. She kept apologising ("I don't know if I'm going to be very useful", "I said 'I don't know' a lot"). She got noticeably more animated during the scenario questions, especially the €5,000 idea and closing the street, where she changed her answer mid-sentence. She lowered her voice and laughed nervously when describing the Uber trick ("Please don't tell her").
 - **Design opportunity hint:** the school drop-off chaos annoys students too. She already gets out at the corner to avoid it, partly from embarrassment ("your dad doing the whole goodbye thing at the gate"). An afternoon street-closure test at pick-up was her own idea, and she expects some parents, her dad included, to push back.

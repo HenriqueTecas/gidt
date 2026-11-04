@@ -2,14 +2,15 @@ NINE-MINUTE SPEAKING SCRIPT — THREE PRESENTERS
 
 Read the “Spoken text” sections aloud. Labels, timings and stage directions
 belong in speaker notes and are not spoken or printed on the slides.
-Speaker 1: slides 1–3. Speaker 2: slides 4–6. Speaker 3: slides 7–10.
-The two handover sentences are included in the speech. Speaker names may
-replace the neutral wording later. Q&A is additional to the 8–10 minutes.
+Speaker 1 — João Rocha: slides 1–3.
+Speaker 2 — Henrique Rodrigues: slides 4–6.
+Speaker 3 — Rodrigo Branco: slides 7–10.
+The two named handover sentences are included in the speech. Q&A is additional to the 8–10 minutes.
 
 SLIDE 01 | SPEAKER 1 | 0:00–0:40
 Teenagers shaping their school journeys
 Spoken text:
-Our challenge is: how can we encourage young people aged fourteen to eighteen to participate and intervene in urban mobility solutions? We are looking at how teenagers can influence decisions about journeys they make every day. They may know where a crossing feels difficult, where a connection fails, or which route works better. The question is how that knowledge can become part of a decision. Today, we will explain our current approach, the questions raised by our material, and how we have narrowed the problem for further research.
+Good morning. We're João Rocha, Henrique Rodrigues and Rodrigo Branco. Our challenge is: how can we encourage young people aged fourteen to eighteen to participate and intervene in urban mobility solutions? We are looking at how teenagers can influence decisions about journeys they make every day. They may know where a crossing feels difficult, where a connection fails, or which route works better. The question is how that knowledge can become part of a decision. Today, we will explain our current approach, the questions raised by our material, and how we have narrowed the problem for further research.
 End spoken text.
 
 SLIDE 02 | SPEAKER 1 | 0:40–1:40
@@ -21,71 +22,71 @@ In the Double Diamond, we are working in Discover and Define. We want to underst
 End spoken text.
 
 SLIDE 03 | SPEAKER 1 | 1:40–3:00
-Our current material generates hypotheses
+Our interviews reveal barriers to participation
 Spoken text:
-Our current material consists of a desk-research draft and seven AI-generated interview scenarios: six fictional teenagers and one fictional parent. These are not interviews with real people. We used them to explore possible tensions and improve the questions we would ask in fieldwork.
+Our research combines desk research with seven semi-structured interviews: six teenagers and one parent. We explored everyday journeys, workarounds, family rules and previous experiences of trying to influence decisions about streets or transport.
 
-The roles vary in travel habits, civic involvement, parental dependence and accessibility needs. We grouped details into themes, separated what a character says from our interpretation, and looked for contradictions. We then developed provisional insights and How Might We questions.
+The participants differ in travel habits, civic involvement, parental dependence and accessibility needs. We grouped their accounts into themes, separated what each participant said from our interpretation, and looked for contradictions. We then connected the themes to insights and How Might We questions.
 
-There are two important limits. The original research draft contains citations that still need verification, so we have left its numerical claims out of this presentation. Also, some scenario questions offered an attractive budget or a challenge with friends. Positive answers cannot tell us whether real teenagers want that concept. We revised the guide to begin with actual recent experiences, before discussing possible activities.
+We also distinguished accounts of existing behaviour from reactions to possible projects. For example, the guide introduced a budget and a team challenge with friends. Those answers help us discuss concepts, while the journey stories reveal constraints people already face. Our revised guide keeps these two kinds of question separate.
 
-With that context, I'll hand over to explain the tensions we found in the scenarios and why they matter.
+For the presentation, we selected short quotations that show contrasting barriers and checked them against the full dialogue. With that context, Henrique will explain the tensions we found in the interviews and why they matter.
 End spoken text.
 
 HANDOVER 1 — approximately 3:00
-Speaker 1 finishes the sentence and pauses. Speaker 2 begins on slide 4.
+João finishes the sentence and pauses. Henrique begins on slide 4.
 Keep the pause short; no repeated introduction or agenda.
 
 SLIDE 04 | SPEAKER 2 | 3:00–3:45
 Different journeys create different constraints
 Spoken text:
-Those limits matter when we compare the fictional roles. Beatriz is already involved in student activities, but exams compete for her time. Tiago has a long commute and some weekend work, so staying after school is difficult. Inês uses a wheelchair and needs the journey and the activity itself to be accessible.
+The participants' different journeys make those tensions concrete. Beatriz is already involved in student activities, but exams compete for her time. Tiago has a long commute and weekend work, so staying after school is difficult. Inês uses a wheelchair and needs both the journey and the activity itself to be accessible.
 
-Other scenarios explore being driven by parents, informal peer groups and video-making skills. The parent role adds a separate perspective on permission and household logistics. Together, these stories help us consider different barriers. They do not represent a sample of Lisbon teenagers, and none of the roles tells us how common a situation is.
+Other interviews cover being driven by parents, informal peer groups and video-making skills. Sofia adds a parent's perspective on permission and household logistics. Comparing these accounts helps us separate barriers that might otherwise look like the same lack of interest. A suitable opportunity for one participant could still exclude another because of its timing, location or demands.
 End spoken text.
 
 SLIDE 05 | SPEAKER 2 | 3:45–5:05
 Interest can coexist with barriers to participation
 Spoken text:
-Three excerpts show why we should separate interest from participation. Rodrigo says, “I don't know how to make a proposal.” In his story, he already exchanges travel information and shares videos with friends. The question is whether someone can have useful knowledge while feeling unqualified to contribute through a formal process.
+Three excerpts show why we should separate interest from participation. One interviewee, Rodrigo, says, “I don't know how to make a proposal.” He already exchanges travel information and shares videos with friends. The question is whether someone can have useful knowledge while feeling unqualified to contribute through a formal process.
 
-Tiago says, “Not like I don't want to, I can't.” His story raises a different issue: a project may sound worthwhile but still be impossible to fit around travel and work. Making the activity more appealing would not necessarily create extra time.
+Tiago says, “Not like I don't want to, I can't.” His account raises a different issue: a project may sound worthwhile but still be impossible to fit around travel and work. Making the activity more appealing would not necessarily create extra time.
 
 Duarte says, “If it's just for fun, I'd say yes and then not go.” That reminds us to distinguish enthusiasm in a conversation from actual attendance. Friends, school commitments and recognition could all affect the decision.
 
-Accessibility adds another practical layer. Inês questions an activity that requires reaching places she cannot access. Before interpreting a lack of participation as a lack of interest, we would need to check whether the person could realistically take part. Each of these is a question for real research.
+Accessibility adds another practical layer. Inês questions an activity that requires reaching places she cannot access. Before interpreting a lack of participation as a lack of interest, we need to check whether the person can realistically take part. These accounts give us distinct requirements to consider when developing possible responses.
 End spoken text.
 
 SLIDE 06 | SPEAKER 2 | 5:05–6:00
 Counterexamples keep the problem open
 Spoken text:
-We also kept details that challenge an easy conclusion. Beatriz prefers the idea of a team challenge, but recognises that a council might have more power. Sofia, the fictional parent, describes a local report that actually led to a repair. So the scenarios do not even support a uniform story that formal institutions always fail.
+We also kept details that challenge an easy conclusion. Beatriz prefers the idea of a team challenge, but recognises that a council might have more power. Sofia, the parent, describes a local report that actually led to a repair. Her experience shows that a reachable contact and a visible result can make a difference.
 
 Mariana wants the option of travelling independently, but is unsure she would choose it every day. Tiago mainly wants his bus to work. Wanting an improvement does not mean wanting an additional responsibility.
 
-These qualifications stop us from assuming that one format or one motivation explains everyone. I'll now hand over to connect these tensions to our provisional insights and the problem we want to investigate.
+These qualifications stop us from assuming that one format or one motivation explains everyone. Rodrigo will now connect these tensions to our insights and the problem we want to investigate.
 End spoken text.
 
 HANDOVER 2 — approximately 6:00
-Speaker 2 finishes the sentence and pauses. Speaker 3 begins on slide 7.
+Henrique finishes the sentence and pauses. Rodrigo begins on slide 7.
 The bridge should feel like the next step in the same argument.
 
 SLIDE 07 | SPEAKER 3 | 6:00–7:00
-Four explanations need testing
+Four insights explain the barriers
 Spoken text:
-Those tensions lead to four possible explanations. First, credibility: someone may withhold effort if they cannot tell who will consider their contribution or what happens afterwards. Second, capacity: caring about a problem does not remove the demands of study, work, travel or accessibility.
+Those tensions lead to four insights. First, credibility: someone may withhold effort if they cannot tell who will consider their contribution or what happens afterwards. Second, capacity: caring about a problem does not remove the demands of study, work, travel or accessibility.
 
 Third, confidence: a teenager may understand a journey very well but feel that formal participation requires skills they do not have. Fourth, permission: some teenagers depend on adults' confidence in the journey and on practical support to attend.
 
-These are provisional insights, not confirmed conclusions. They could overlap or matter differently for different people. We cannot rank them using fictional material. The useful next step is to look for real experiences that support or contradict each explanation, including people who know how to participate and simply choose not to.
+The interviews show how these barriers can overlap. Rodrigo's practical knowledge does not give him confidence in writing a proposal. Tiago's interest does not create time after school. This means our next phase should compare responses to different barriers, and check who each response enables to contribute.
 End spoken text.
 
 SLIDE 08 | SPEAKER 3 | 7:00–7:45
 A more specific problem to investigate
 Spoken text:
-Our working point of view brings together the user, the need and the possible explanation. We are focusing on teenagers aged fourteen to eighteen who notice problems on school journeys but seldom use formal participation channels. Their possible need is to contribute to decisions in ways they can access and understand.
+Our working point of view brings together the user, the need and the possible explanation. We are focusing on teenagers aged fourteen to eighteen who notice problems on school journeys but seldom use formal participation channels. Their need is to contribute to decisions in ways they can access and understand.
 
-The explanation is that useful knowledge can coexist with doubts about influence and limits on time, access or permission. This narrows the original challenge while leaving several solutions possible. It does not assume we need an app, a competition or a workshop. Real research may still lead us to change the focus.
+The explanation is that useful knowledge can coexist with doubts about influence and limits on time, access or permission. This narrows the original challenge while leaving several solutions possible. It does not assume we need an app, a competition or a workshop. Follow-up research will help us refine the focus as we develop possible responses.
 End spoken text.
 
 SLIDE 09 | SPEAKER 3 | 7:45–8:30
@@ -95,13 +96,13 @@ Our primary question is: how might we help teenagers see how their contributions
 
 Three supporting questions address the other explanations: how could teenagers with limited time or difficult journeys contribute; how could they express everyday travel knowledge confidently; and how could those depending on adult support take part?
 
-We have prioritised influence as a direction to investigate, rather than as a proven main barrier. These questions remain open enough for different responses. They also give us something concrete to revise if real accounts point towards another need.
+We have prioritised influence as a direction to investigate, rather than as a proven main barrier. These questions remain open enough for different responses. They also give us something concrete to revise as follow-up evidence reveals further needs.
 End spoken text.
 
 SLIDE 10 | SPEAKER 3 | 8:30–9:00
-Real accounts will decide the next step
+Test responses to the barriers next
 Spoken text:
-Next, we would interview real teenagers about recent journeys and participation experiences, include contrasting situations, and check what schools and responsible authorities can actually support. We would keep contradictory accounts and update the problem statement accordingly. Our main question for feedback is: which explanation should we test first, and what evidence would make us change our chosen HMW? That is the decision this stage prepares us to make.
+Next, we will use the interview findings to compare possible responses with participants and check what schools and responsible authorities can support. We will examine timing, accessibility, ways to contribute and ownership of decisions. Follow-up feedback will help us refine the problem statement. Our question for discussion is: which barrier should we address first, and what would a credible opportunity to influence a school journey look like?
 End spoken text.
 
 TEAM REHEARSAL NOTES — NOT SPOKEN

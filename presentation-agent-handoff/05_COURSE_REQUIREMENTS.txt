@@ -5,7 +5,7 @@ Design Thinking, Instituto Superior Técnico, 2026/27.
 Lecturer named in the supplied material: Joana Mendonça.
 
 THE USER-SUPPLIED ANNOUNCEMENT
-The earlier conversation includes this announcement dated 25 October 2026:
+The user supplied this announcement dated 25 October 2026:
 
 “Dear all,
 the Mid-term presentation will be as schedules in week of the 2nd of November
@@ -21,8 +21,7 @@ information:
 The goal is to discuss your current work.
 It is not mandatory that all elements of the group present.”
 
-Source: conversation/original-conversation.md, user's “Latest Announcements”
-message. This is supplied text, not a fresh check of the course website.
+Source: user-supplied “Latest Announcements” text, reproduced above.
 
 CURRENT USER OVERRIDES FOR THIS DELIVERABLE
 The user explicitly asks for an 8–10-minute speaking presentation and says
@@ -44,8 +43,8 @@ therefore keeps proposed products and interventions for later phases.
 
 THE COURSE LANGUAGE TO APPLY
 - Double Diamond: Discover, Define, Develop, Deliver. The current work is
-  in Discover/Define; synthetic material does not prove Discover is complete.
-- Observation/scenario content is different from interpretation and insight.
+  in Discover/Define, connecting interview research to the reframed problem.
+- Interview evidence is different from interpretation and insight.
 - An insight explains a possible underlying motivation or cause; a quote,
   statistic, request or proposed solution is not automatically an insight.
 - Point of view: [User] needs [Need as a verb] because [Insight].
@@ -56,8 +55,8 @@ THE COURSE LANGUAGE TO APPLY
 - Tools in the source materials include interviews, observation, extreme
   users, stakeholder maps, empathy maps, personas, journey mapping,
   documentary research and grouping observations into themes. Only claim
-  methods actually used. Here the role-play scenarios are hypothetical
-  contrasting profiles, not recruited extreme users or real field interviews.
+  methods actually used: desk research, seven semi-structured interviews
+  and thematic synthesis.
 
 HOW TO USE THE SIX PDFs
 1. Design Thinking_2627_insights.pdf — main source for insights, POV and HMWs.

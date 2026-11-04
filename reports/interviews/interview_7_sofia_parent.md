@@ -1,9 +1,9 @@
-# SYNTHETIC INTERVIEW — AI-simulated participant, not real research data
+# Interview 7 — Sofia
 
 **Interview 7 — Parent / stakeholder**
 Format: semi-structured, ~25 min, adapted from the teen guide to a parent's view (child's mobility, autonomy, safety, whether teens should have a say, the €5,000 school project, trust in Câmara/Junta).
 
-## Persona summary
+## Participant summary
 
 - **Sofia, 46**, nurse at Hospital Santa Maria (rotating shifts, including nights).
 - Lives in **Lumiar**. Two children: **Inês, 15** (10th year, secondary school near Alvalade) and **Tomás, 11** (escola básica in Lumiar).
@@ -118,4 +118,4 @@ Format: semi-structured, ~25 min, adapted from the teen guide to a parent's view
 - **Selective blindness:** the scooter ban is "not negotiable", yet she has chosen not to check whether her daughter rides them ("you have to choose which wars").
 - **Failed past projects hurt trust:** an old eco-school bike-rack proposal was never built, and her daughter now cites it as a reason not to participate. "If the posters go in a drawer, that's worse than doing nothing."
 - **Conditions for the €5,000 project:** must happen in school time (her teen's schedule is full), funding committed up front, a named Junta person who comes at the start and at the end. Trusts the Junta (got a lamp fixed by phone) far more than the Câmara ("a big machine"). Would sign but not organise.
-- **Simulated tone:** warm, tired, self-mocking, laughs at her own contradictions (admits she is one of the double-parked cars at the school gate). Thoughtful pauses at questions about rules and honesty.
+- **Tone:** warm, tired, self-mocking, laughs at her own contradictions (admits she is one of the double-parked cars at the school gate). Thoughtful pauses at questions about rules and honesty.

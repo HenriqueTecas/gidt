@@ -7,21 +7,21 @@ Target timecodes are presenter guidance only; do not print them on slides.
 RUN OF SHOW
 01  0:00–0:40  0:40  Speaker 1  Teenagers shaping their school journeys
 02  0:40–1:40  1:00  Speaker 1  We are narrowing a fixed challenge
-03  1:40–3:00  1:20  Speaker 1  Our current material generates hypotheses
+03  1:40–3:00  1:20  Speaker 1  Our interviews reveal barriers to participation
                          HANDOVER 1
 04  3:00–3:45  0:45  Speaker 2  Different journeys create different constraints
 05  3:45–5:05  1:20  Speaker 2  Interest can coexist with barriers to participation
 06  5:05–6:00  0:55  Speaker 2  Counterexamples keep the problem open
                          HANDOVER 2
-07  6:00–7:00  1:00  Speaker 3  Four explanations need testing
+07  6:00–7:00  1:00  Speaker 3  Four insights explain the barriers
 08  7:00–7:45  0:45  Speaker 3  A more specific problem to investigate
 09  7:45–8:30  0:45  Speaker 3  Our HMWs keep several paths open
-10  8:30–9:00  0:30  Speaker 3  Real accounts will decide the next step
+10  8:30–9:00  0:30  Speaker 3  Test responses to the barriers next
 
 SPEAKER OWNERSHIP
 Speaker 1: problem, scope, process and methods. Total 3:00.
-Speaker 2: contrasting scenario profiles, results and qualifications. Total 3:00.
-Speaker 3: provisional insights, reframing, HMWs and validation. Total 3:00.
+Speaker 2: contrasting participant profiles, results and qualifications. Total 3:00.
+Speaker 3: insights, reframing, HMWs and validation. Total 3:00.
 Speaker 1 introduces the shared challenge; Speaker 3 closes the argument.
 No separate self-introductions at handovers, and no repetition of the title.
 
@@ -39,33 +39,32 @@ Visible content: ages 14–18; journeys to a Lisbon school; influence over
 decisions. Include “Working scope” and “Discover / Define”.
 Visual: one compact Double Diamond with the first diamond highlighted.
 Scope includes home-side streets and connections, not only the school gate.
-No selected school, completed fieldwork or chosen solution is implied.
-Source: course insights deck and research/synthetic-research-appendix.md §1,6.
+No particular school for the next project phase or final solution is selected.
+Source: course insights deck and research/research-appendix.md §1,6.
 
-SLIDE 03 — Our current material generates hypotheses
-Job: explain what has been done and what the evidence can support.
-Visible content: desk-research draft reviewed; seven AI role-play scenarios
-(six teen roles + one parent); theme grouping; provisional insights and HMWs.
-Disclosure: “AI scenarios, not real interviews. Field validation remains.”
-Visual: a small source-to-synthesis sequence, with clear evidence labels.
-Spoken detail: contrasting roles, transcript checks, leading questions,
-unresolved citations, and independent real-world validation still needed.
+SLIDE 03 — Our interviews reveal barriers to participation
+Job: explain the research methods and synthesis.
+Visible content: desk research; seven semi-structured interviews
+(six teenagers + one parent); theme grouping; insights and HMWs.
+Visual: desk research + interviews → themes → insights → HMWs.
+Spoken detail: contrasting travel situations, checks against participant
+dialogue, counterexamples and separation of experience from concept reactions.
 End with Handover 1 as written in the script.
-Source: research/synthetic-research-appendix.md §2 and audit-notes/.
+Source: research/research-appendix.md §2 and audit-notes/.
 
 SLIDE 04 — Different journeys create different constraints
 Job: make the range concrete without overloading the audience with seven bios.
-Visible content: three contrasting fictional examples—Beatriz, 17, organiser
+Visible content: three contrasting participants—Beatriz, 17, organiser
 and metro user; Tiago, 16, long commute and work; Inês, 16, wheelchair user.
-Small caption: “Illustrative AI roles; not a representative sample.”
-Visual: three restrained text-and-mode vignettes, without fake interview photos.
-Spoken detail: other roles cover parental dependence, informal peer activity
-and video skills; the parent is a separate stakeholder, not a seventh teen.
-Source: research/synthetic-interviews/README.md and individual transcripts.
+Small caption: “Participant profiles.”
+Visual: three restrained text-and-mode vignettes.
+Spoken detail: other interviews cover parental dependence, informal peer activity
+and video skills; the parent contributes a separate stakeholder perspective.
+Source: research/interviews/README.md and individual transcripts.
 
 SLIDE 05 — Interest can coexist with barriers to participation
-Job: present scenario content before explaining the underlying mechanisms.
-Visible content: three exact fictional excerpts, clearly labelled:
+Job: present interview evidence before explaining the underlying mechanisms.
+Visible content: three exact interview excerpts, attributed to participants:
 - Rodrigo: “I don't know how to make a proposal.”
 - Tiago: “Not like I don't want to, I can't.”
 - Duarte: “If it's just for fun, I'd say yes and then not go.”
@@ -73,7 +72,7 @@ Visual: generous typography; short captions for confidence, capacity and
 follow-through. Keep excerpts separate from interpretations.
 Spoken detail: formal confidence, practical access and actual attendance
 are separate questions. Include Inês's access issue as a spoken example.
-Source: quote bank, scenario transcripts, synthesis §3.
+Source: quote bank, interview transcripts, synthesis §3.
 
 SLIDE 06 — Counterexamples keep the problem open
 Job: challenge the preferred explanation rather than claim unanimity.
@@ -81,21 +80,21 @@ Visible content: a council may have power; a local report can get a response;
 wanting a better service does not guarantee wanting to join a project.
 Visual: three short contrasting statements or one central tension; no stats.
 Spoken examples: Beatriz recognises possible council influence; Sofia's
-fictional lamp repair succeeds; Tiago prioritises a functioning bus;
+reported lamp repair succeeds; Tiago prioritises a functioning bus;
 Mariana wants the option of independence without promising a daily switch.
 End with Handover 2 as written in the script.
 Source: quote bank and synthesis §3,5.
 
-SLIDE 07 — Four explanations need testing
-Job: move from scenario details to possible explanations of behaviour.
-Visible content, labelled “Provisional insights”:
+SLIDE 07 — Four insights explain the barriers
+Job: move from interview evidence to explanations of behaviour.
+Visible content, labelled “Insights”:
 I1 Credibility — unclear consequences can make effort feel unrewarding.
 I2 Capacity — interest does not remove time, travel or access constraints.
 I3 Confidence — everyday expertise may feel insufficient for formal processes.
 I4 Permission — some teens depend on adult trust and practical support.
-Visual: a clean four-row list with a brief source-scenario reference per row.
+Visual: a clean four-row list with a brief interview reference per row.
 No claim that one factor is most prevalent or that the four are independent.
-Source: research/synthetic-research-appendix.md §5.
+Source: research/research-appendix.md §5.
 
 SLIDE 08 — A more specific problem to investigate
 Job: make the reframing explicit with user, action-oriented need and why.
@@ -105,7 +104,7 @@ formal participation channels.
 NEED — Contribute to decisions in ways they can access and understand.
 BECAUSE — Useful knowledge can coexist with doubts about influence and
 limits on time, access or permission.
-Caption: “Working point of view; to be tested.”
+Caption: “User → need → insight.”
 Visual: three connected components. Keep the full sentence in speaker notes.
 Source: synthesis §6 and course insights deck.
 
@@ -122,22 +121,22 @@ contributions they feel confident making?”
 “How might we enable teenagers who depend on adult permission or support
 to take part in shaping their journeys?”
 Visual: main question plus three supporting questions; connect to I1–I4 if
-space allows. Say why the first is provisional, not empirically dominant.
+space allows. Explain how the first question follows from the credibility insight.
 Source: synthesis §6.
 
-SLIDE 10 — Real accounts will decide the next step
+SLIDE 10 — Test responses to the barriers next
 Job: close with a research decision and an invitation to discuss it.
-Visible content: recent real experiences; contrasting users; practical
-school/authority constraints; update the HMW if evidence points elsewhere.
+Visible content: compare possible responses with participants; check
+school/authority constraints; update the HMW after follow-up research.
 Discussion question: “Which explanation should we test first?”
 Visual: a short next-step sequence or one closing question, not a thank-you slide.
 Speaker 3 delivers the final sentence; all three can answer questions.
 Source: research/fieldwork-validation-guide.md and synthesis §8.
 
 OPTIONAL BACKUP — NOT INCLUDED IN THE NINE MINUTES
-- Full fictional persona register, with the missing 18-year-old and isolated
+- Full participant register, with the missing 18-year-old and isolated
   teen perspectives noted.
-- Rodrigo's hypothetical empathy map (synthesis §4).
+- Rodrigo's empathy map (synthesis §4).
 - Original ten assumptions and disconfirming tests (synthesis §8).
 - Stakeholder roles: teens, parents/carers, school, municipality/parish and
   transport operators. Responsibilities must be verified for the chosen issue.
@@ -148,6 +147,6 @@ Practise at a natural pace with the notes, not by reading the slide text.
 Target two short handovers of roughly 3–5 seconds; keep total below ten
 minutes. Speakers 1 and 2 should finish their own point before passing.
 If over ten minutes, shorten supporting examples and repeated explanations.
-Do not cut the synthetic-method disclosure, the POV or the primary HMW.
-If under eight minutes, use the concrete scenario explanations in the notes
+Keep the methods, the POV and the primary HMW.
+If under eight minutes, use the concrete interview examples in the notes
 rather than adding unrelated theory. Do one timed team run before delivery.
