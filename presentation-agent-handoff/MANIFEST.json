@@ -1,0 +1,416 @@
+{
+  "purpose": "Three-speaker, 8–10-minute presentation handoff",
+  "target_seconds": 540,
+  "speaker_word_counts": {
+    "1": 384,
+    "2": 404,
+    "3": 407
+  },
+  "files": [
+    {
+      "path": "00_START_HERE.txt",
+      "bytes": 3523,
+      "sha256": "831e14d6cc1619376a9901e65132381bde9eaa1a0b467a482b2ee810a72ac609"
+    },
+    {
+      "path": "01_AGENT_PROMPT.txt",
+      "bytes": 5170,
+      "sha256": "eba8874cf1798bec0287c52065ea100d573923a7f397d21cf7c698ec512122e2"
+    },
+    {
+      "path": "02_PRESENTATION_PLAN_8-10_MIN.txt",
+      "bytes": 8975,
+      "sha256": "c7411b97b9e5d4e0b1a2fe5bed6817e94281f8ccbfb7eabd6d3ec2137c78d460"
+    },
+    {
+      "path": "03_SPEAKER_SCRIPT_9_MIN.txt",
+      "bytes": 10005,
+      "sha256": "fde9b7348566376f7a968e19aeb5612cb557842e7cf1815c4f3e906e50f9f1eb"
+    },
+    {
+      "path": "04_EVIDENCE_AND_QUOTE_BANK.txt",
+      "bytes": 5443,
+      "sha256": "5945a8dec654724366e6c80e194a631e9d90dbdcc55ad5dac6d8cb065a92e19d"
+    },
+    {
+      "path": "05_COURSE_REQUIREMENTS.txt",
+      "bytes": 4125,
+      "sha256": "ec4db8e8b9a715a122f84b669ae0dad84618a1c60931f45835ad774f236f68d0"
+    },
+    {
+      "path": "REHEARSAL_CHECK.txt",
+      "bytes": 1563,
+      "sha256": "f2fbeadc10b1752eb9f56fa584687b852c7a7cd89cb7d9a75a49727a71f5d72f"
+    },
+    {
+      "path": "archive/README.txt",
+      "bytes": 288,
+      "sha256": "754a56a500fa1c65ee6636b87f20af032d8500cfb5450c25ebced239993b7755"
+    },
+    {
+      "path": "archive/fenix-snapshots/anuncios.html",
+      "bytes": 12660,
+      "sha256": "a79e84495e27afb447283004a83836e4a21797070b7abb36e704471c2b36d0fd"
+    },
+    {
+      "path": "archive/fenix-snapshots/avaliacao.html",
+      "bytes": 12119,
+      "sha256": "047774ef9a48aa99a9a8f5c7eabf3feb1ac6c034dcee228925d9bda355444411"
+    },
+    {
+      "path": "archive/fenix-snapshots/grupos.html",
+      "bytes": 11293,
+      "sha256": "31ecc1b4eea8942d9def8d01d735b099c050349f6d851f1ad0488b268c1e4047"
+    },
+    {
+      "path": "archive/fenix-snapshots/horario.html",
+      "bytes": 13290,
+      "sha256": "39244affcb500a7c832023bc585174429ea32174189eb027827ae784b44d1142"
+    },
+    {
+      "path": "archive/fenix-snapshots/main.html",
+      "bytes": 19500,
+      "sha256": "5d463e842720937325af7808686fe5df52c595fa81a2fdc5b5b7dc64f0131646"
+    },
+    {
+      "path": "archive/fenix-snapshots/metodos-de-avaliacao.html",
+      "bytes": 11501,
+      "sha256": "35954c0dbcc99f708d27a31588ad884f7f17619fb26a339cdf72e0e5644e0210"
+    },
+    {
+      "path": "archive/fenix-snapshots/objectivos.html",
+      "bytes": 12663,
+      "sha256": "33a48c525bb8e2364482ee61df34462ad483bdae4884441a6a956354aa5395ea"
+    },
+    {
+      "path": "archive/fenix-snapshots/planeamento.html",
+      "bytes": 10899,
+      "sha256": "50165b14e06ffeb0f7085d26a4a4769eae626c4b7d12cb828e60b504bc7c2c6a"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT112_2025-2026-anuncios.html",
+      "bytes": 17634,
+      "sha256": "657769ddd7b393baddb55577b4ffa611503db88d5cb341d9e6599e273a028730"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT112_2025-2026-avaliacao.html",
+      "bytes": 13538,
+      "sha256": "8b08818f074eb6b73ef31142ff6c69c837cca4ef879f2e800d30b8729a99f159"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT112_2025-2026-metodos-de-avaliacao.html",
+      "bytes": 11716,
+      "sha256": "d39a6c4488bfb9f2b039f7acd00f1ca3450d5edb4c700d42f23400e537be343f"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT112_2025-2026-rss_announcement.html",
+      "bytes": 7337,
+      "sha256": "a9f25ea50ed7495312197807a1d9a8d97a92070587816b17e6ac72263358a0ae"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT11_2024-2025-anuncios.html",
+      "bytes": 11825,
+      "sha256": "558746d463d58b0adde00583e53ac3ee2b33bac61f6e62405d1a22868c5e211c"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT11_2024-2025-avaliacao.html",
+      "bytes": 11826,
+      "sha256": "e21de871eebf4918af74588979e2b9f087f8b3c07d3c4e33598819b184df60d5"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT11_2024-2025-metodos-de-avaliacao.html",
+      "bytes": 11479,
+      "sha256": "9ec5d3e653b2c87d18115f6ef8cc6ca3abec0f8ca002dfcb8e43787f55750a2c"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT11_2024-2025-rss_announcement.html",
+      "bytes": 780,
+      "sha256": "4abc01371975cc29330f53fbaa32de6150378998fbb912b36c8935f479791d8d"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT_2024-2025-anuncios.html",
+      "bytes": 1366,
+      "sha256": "a6938bc619aa2e428a8e82007816a7cdd69ff18b4d42af6ee864b137671f9d7c"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT_2024-2025-avaliacao.html",
+      "bytes": 1366,
+      "sha256": "a6938bc619aa2e428a8e82007816a7cdd69ff18b4d42af6ee864b137671f9d7c"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT_2024-2025-metodos-de-avaliacao.html",
+      "bytes": 1366,
+      "sha256": "a6938bc619aa2e428a8e82007816a7cdd69ff18b4d42af6ee864b137671f9d7c"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT_2024-2025-rss_announcement.html",
+      "bytes": 1366,
+      "sha256": "a6938bc619aa2e428a8e82007816a7cdd69ff18b4d42af6ee864b137671f9d7c"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT_2025-2026-anuncios.html",
+      "bytes": 1366,
+      "sha256": "a6938bc619aa2e428a8e82007816a7cdd69ff18b4d42af6ee864b137671f9d7c"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT_2025-2026-avaliacao.html",
+      "bytes": 1366,
+      "sha256": "a6938bc619aa2e428a8e82007816a7cdd69ff18b4d42af6ee864b137671f9d7c"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT_2025-2026-metodos-de-avaliacao.html",
+      "bytes": 1366,
+      "sha256": "a6938bc619aa2e428a8e82007816a7cdd69ff18b4d42af6ee864b137671f9d7c"
+    },
+    {
+      "path": "archive/fenix-snapshots/prev/GIDT_2025-2026-rss_announcement.html",
+      "bytes": 1366,
+      "sha256": "a6938bc619aa2e428a8e82007816a7cdd69ff18b4d42af6ee864b137671f9d7c"
+    },
+    {
+      "path": "archive/fenix-snapshots/programa.html",
+      "bytes": 11780,
+      "sha256": "ca822be3ab2967b0775d539d219a2634592118912b44ab31835e05d77c4d1435"
+    },
+    {
+      "path": "archive/fenix-snapshots/rss_announcement.html",
+      "bytes": 776,
+      "sha256": "5306a4082cbf10f3c072d2a7553c8cf57d4d23608f7c41fb76b9e911d6a93bec"
+    },
+    {
+      "path": "archive/fenix-snapshots/rss_summary.html",
+      "bytes": 766,
+      "sha256": "d37c923e4109a14388734f4aac1f6991a61cd5bd580304a7f2d91150eeffd4bc"
+    },
+    {
+      "path": "archive/fenix-snapshots/sumarios.html",
+      "bytes": 10888,
+      "sha256": "84ddc211d2064b3b64994c6887211c32f8cd87fbb560288ca051f659858e7604"
+    },
+    {
+      "path": "archive/fenix-snapshots/ver-post_2nd-task.html",
+      "bytes": 11228,
+      "sha256": "65f76b9ba43885b53fe6ec2ca54ef9735a9fec533a566222a77c386e6aabe079"
+    },
+    {
+      "path": "archive/fenix-snapshots/ver-post_3rd-task.html",
+      "bytes": 11228,
+      "sha256": "1e8736b764df088733bc6538c9d4d74735519ec483b68ff66ecb3e24f95f0f9a"
+    },
+    {
+      "path": "archive/fenix-snapshots/ver-post_group-meeting-availability--gidtpb03-and-gidtpb04.html",
+      "bytes": 11269,
+      "sha256": "8229c821b0dc5c431784ffe06e5e065396a237b69b33168567c74296232b0851"
+    },
+    {
+      "path": "archive/fenix-snapshots/ver-post_individual-evaluation.html",
+      "bytes": 11241,
+      "sha256": "597f8e332c8ab74d086b7101812eeada0d4bda259c79ca99152f755f2880be4b"
+    },
+    {
+      "path": "audit-notes/methodology_audit.md",
+      "bytes": 10152,
+      "sha256": "04649430ccfa9796183f0f9ea893824524723e2a16b734f9c486fffe41549708"
+    },
+    {
+      "path": "audit-notes/synthesis_notes_A.md",
+      "bytes": 10109,
+      "sha256": "bc3bd1797ee909abe53f06bcd0d3621bb20c5b3c0b567a3f56a773f26ca3246a"
+    },
+    {
+      "path": "audit-notes/synthesis_notes_B.md",
+      "bytes": 11284,
+      "sha256": "2e948ec87f7d7facd20e0decbc7d3b65ada03df2d099ebc6756d177ddd111df9"
+    },
+    {
+      "path": "conversation/latest-request-and-status.txt",
+      "bytes": 2018,
+      "sha256": "ac6f6a0a89422c5def458d70459d8814766b95cf8abf2de9fd7517af7ba6ce20"
+    },
+    {
+      "path": "conversation/original-conversation.md",
+      "bytes": 28370,
+      "sha256": "7ac0091297b50f813f407365e15454d8e26fb4b9fb6e0fb2883e77d58bd36ea7"
+    },
+    {
+      "path": "course-materials/pdf/Aula_23Setembro (1).pdf",
+      "bytes": 1728726,
+      "sha256": "3a783fd8064597c87af59c92f09f7d4d5b19769063ad21a584dc6792ff38a49f"
+    },
+    {
+      "path": "course-materials/pdf/DT-template_EN (4).pdf",
+      "bytes": 407367,
+      "sha256": "d140a41980533dafc14ce5816822d57d13af22c0a47c5f42a3b0d37655e0e708"
+    },
+    {
+      "path": "course-materials/pdf/Design Thinkin 2627_1 (4).pdf",
+      "bytes": 4624815,
+      "sha256": "a793c395cbb75f5dde15e709c4baa66488bad9fd6614c93c1ed7a0692f2b4e68"
+    },
+    {
+      "path": "course-materials/pdf/Design Thinking_2627_4 (3).pdf",
+      "bytes": 7484561,
+      "sha256": "e4eacec0affb3e1fd0cc7eedcd262836614a63780d92ac7fe1833cfda9d9db40"
+    },
+    {
+      "path": "course-materials/pdf/Design Thinking_2627_insights.pdf",
+      "bytes": 4487790,
+      "sha256": "425d2732bb4c275b1cb88005f7abff41b594e4916680cfa829402dcd46133ed9"
+    },
+    {
+      "path": "course-materials/pdf/GIDT2627_Design Thinking Overview (1).pdf",
+      "bytes": 4868677,
+      "sha256": "6a0cc6dac7a320c605f5e78a0e9670f4c97e3b998662727b2b7fb3f8ec03982b"
+    },
+    {
+      "path": "course-materials/reference-images/insights-04.png",
+      "bytes": 51436,
+      "sha256": "2262f4e346c58bb7ecd1178c93abb6900bb0d3f1e5e51453f1662df087f0a867"
+    },
+    {
+      "path": "course-materials/reference-images/insights-21.png",
+      "bytes": 22491,
+      "sha256": "0fb2276653d443dac87b62080d14356a4f5a6b6c255c55a3e1c44a7db078d6fa"
+    },
+    {
+      "path": "course-materials/reference-images/insights-35.png",
+      "bytes": 84909,
+      "sha256": "f1e54cfe2dc54d97868432ae3e858f57e22de4c37b6b260560c3f4e46ef633f8"
+    },
+    {
+      "path": "course-materials/reference-images/insights-40.png",
+      "bytes": 61960,
+      "sha256": "f6461da1fd3fce3ca96350d2e748dcbd6958ff850606e4655f99ee3924e18716"
+    },
+    {
+      "path": "course-materials/reference-images/insights-41.png",
+      "bytes": 38894,
+      "sha256": "eb002d87a56af4993271c3ee585fd38558fbd07042fd1bb3e621026e7889fad0"
+    },
+    {
+      "path": "course-materials/reference-images/template-13.png",
+      "bytes": 11447,
+      "sha256": "33ce095e89fba37efe8ed0b8851ac51fe5a77480aa6499be6b978cea9507a2ea"
+    },
+    {
+      "path": "course-materials/reference-images/template-14.png",
+      "bytes": 14032,
+      "sha256": "29c63527115c2350f426f41b40396ab84406eeb3ab29f777697fe7b1568c0574"
+    },
+    {
+      "path": "course-materials/reference-images/template-15.png",
+      "bytes": 18114,
+      "sha256": "0867a1cf1e09cd875f17fa4712c13f85c65ac47a754e1e76bd862eb47f63cede"
+    },
+    {
+      "path": "course-materials/reference-images/template-16.png",
+      "bytes": 13061,
+      "sha256": "df3b608ba745993decd2bc9303469b44f78661e96ef35028753ce9de50e60c26"
+    },
+    {
+      "path": "course-materials/text/Aula_23Setembro (1).txt",
+      "bytes": 43079,
+      "sha256": "78c44b4aa1b6a44389ba429684ba61a062a3fdf068abfff4c4d5d4107c408501"
+    },
+    {
+      "path": "course-materials/text/DT-template_EN (4).txt",
+      "bytes": 15074,
+      "sha256": "e1e4e10fd40a4103a3fb3a751df7e54557aaa34c185e6bacf0425b9e09345554"
+    },
+    {
+      "path": "course-materials/text/Design Thinkin 2627_1 (4).txt",
+      "bytes": 13610,
+      "sha256": "4bd503a58310e3c4c697386e2046d802d083a0bd28bff15740f10c2d532777a8"
+    },
+    {
+      "path": "course-materials/text/Design Thinking_2627_4 (3).txt",
+      "bytes": 11401,
+      "sha256": "3b59cfcc0ab901bcff5d56874dbf6050269e5a35bb8d7fb0452f544f2d7b61e4"
+    },
+    {
+      "path": "course-materials/text/Design Thinking_2627_insights.txt",
+      "bytes": 13559,
+      "sha256": "218fcd497422c567412cf763b342d2f6af0d6564f37ac387ccdb88934a1c1153"
+    },
+    {
+      "path": "course-materials/text/GIDT2627_Design Thinking Overview (1).txt",
+      "bytes": 4684,
+      "sha256": "89c8dff8f393f7a2587da76fa2044ff6e88dacfbccf09f5b68f86b6def5f9cac"
+    },
+    {
+      "path": "deliverables/README.txt",
+      "bytes": 159,
+      "sha256": "81fd5e44c812789d53f81255d557ffd207d276da6877344f04f63832d8cac35c"
+    },
+    {
+      "path": "research/deep-research-report-with-synthetic-appendix.md",
+      "bytes": 76808,
+      "sha256": "22336e008453ef708c19e46a30ffb29203f59aafa1a3324eb11d78117f250754"
+    },
+    {
+      "path": "research/fieldwork-validation-guide.md",
+      "bytes": 6465,
+      "sha256": "44b5fce6d3d5788cb7f429da60ca03cfa271e9cc5187475ae591ee201fe3e1d4"
+    },
+    {
+      "path": "research/midterm-presentation-outline.md",
+      "bytes": 8454,
+      "sha256": "fedaf030cf34c040656bb5fdbcf299fcf61bd6410d3ad3613370bcdd472727d6"
+    },
+    {
+      "path": "research/original-deep-research-report.md",
+      "bytes": 54885,
+      "sha256": "31ec96dd8ce46a05e8364ec79b088d7dcf285d25bdba82ad6b3604c895d0f461"
+    },
+    {
+      "path": "research/synthetic-interviews/README.md",
+      "bytes": 1892,
+      "sha256": "7285440b0f56cd9dcdb137adb5889586e748acbb9e0bc3f5a5b0a224b20bca25"
+    },
+    {
+      "path": "research/synthetic-interviews/interview_1_beatriz.md",
+      "bytes": 15071,
+      "sha256": "29e4e095581174a67fdbb53920b306ffeeb2f154b99c173c3347566e85134d65"
+    },
+    {
+      "path": "research/synthetic-interviews/interview_2_rodrigo.md",
+      "bytes": 14798,
+      "sha256": "fa6fc23818cd43df1570c6bb6f4e8255725c22675f3f8fca2684dbb6fb807b42"
+    },
+    {
+      "path": "research/synthetic-interviews/interview_3_mariana.md",
+      "bytes": 15598,
+      "sha256": "df73de896880acd34df371d4ceccc5346bd40a5f0e7ffede826986319fd55b77"
+    },
+    {
+      "path": "research/synthetic-interviews/interview_4_tiago.md",
+      "bytes": 16175,
+      "sha256": "e3ab199dfbe3af23412f1ac8831033c63ce3d4251679fa99418bb4a0828a74f0"
+    },
+    {
+      "path": "research/synthetic-interviews/interview_5_ines.md",
+      "bytes": 16696,
+      "sha256": "417d2466c951bfbeb6e623f801bd2d0955f0c19c02181d42624b1b351a8a01e9"
+    },
+    {
+      "path": "research/synthetic-interviews/interview_6_duarte.md",
+      "bytes": 16199,
+      "sha256": "a4ddceaa73daf7554bb72e7641103c366e5e395373f1bf563c71fb767e16d255"
+    },
+    {
+      "path": "research/synthetic-interviews/interview_7_sofia_parent.md",
+      "bytes": 12500,
+      "sha256": "90182d8483332bb8e5a7e098f72d6e1dd4fd62171ad70e611f961e72a0093da3"
+    },
+    {
+      "path": "research/synthetic-interviews/interview_guide.md",
+      "bytes": 1819,
+      "sha256": "350daa393fcb74233a21eaabdd338ccb95bc15d57c23d1ea0c19cc83ace8a8cc"
+    },
+    {
+      "path": "research/synthetic-research-appendix.md",
+      "bytes": 20537,
+      "sha256": "3e1ae971cfdfda49ce31a8bca4037157ef3eaf5e7824316b49ec0b8efc9ae3b3"
+    }
+  ]
+}

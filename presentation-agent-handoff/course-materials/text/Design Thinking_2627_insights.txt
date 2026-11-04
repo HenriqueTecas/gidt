@@ -1,0 +1,334 @@
+Gestão de Inovação e
+Design Thinking/Innovation
+Management and Design Thinking
+2026/27
+Joana Mendonça
+Joana.mendonca@tecnico.ulisboa.pt
+Week 7
+• CONVERGING: TAKING VALUE OF OUR RESEARCH - INSIGHTS E
+  HMW
+Design Thinking Projects – The problem
+
+How can we encourage
+youth (aged 14 - 18) to
+participate and intervene in
+urban mobility solutions?
+CONVERGING:
+TAKING VALUE OF
+OUR RESEARCH
+• Unpacking all the information
+• What you’ve seen, gathered and observed
+• Share all stories in detail
+Analyze and
+organize the
+information
+Observation                                Insights
+      The Facts                               The Why?
+
+ Through synthesising user stories, we will identify key insights
+ that offer a human rather than technological or business lens to
+ tackle the challenge at hand.
+INSIGHT
+GENERATIO
+N
+• User insights are the golden nuggets that allow us to
+understand the needs, motivations, and aspirations
+driving the people we design for.
+               • Exploration for insight can be an
+                 individual pursuit, but is usually
+     Insight     more useful in collaboration with
+                 others.
+Generation
+               • What seems obvious to you may
+ Principles      feel like an amazing insight and
+                 fresh thinking for someone else,
+                 and vice versa.
+               • Design insight is a social affair because
+                 you’ll want to reach a shared
+                 perspective about what matters
+     Insight     currently and what will matter for
+Generation       people in places and with things in the
+ Principles      future. And that process of sharing and
+                 discovering new things together is
+                 refreshing, motivational, and a great
+                 boost to team energy and effectiveness.
+Insight Generation Principles
+
+
+
+
+•Insights often reveal a hidden truth,
+which is one of the reasons they can be
+so valuable.
+             An unrecognized fundamental
+             human truth that reveals
+             the inner nature of things
+Insight
+definition   A new way of viewing the world
+             that causes us to reexamine
+             existing conventions and
+             challenge the status quo
+             A penetrating observation
+             about human behavior that
+             results in seeing consumers
+Insight      from a fresh perspective.
+definition   A discovery about the
+             underlying motivations that
+             drive people’s actions.
+             INSIGHT IS NOT DATA
+What an
+             AN OBSERVATION IS NOT AN
+Insight is   INSIGHT
+Not
+             A CUSTOMER WISH OR STATEMENT
+             OF NEED IS NOT AN INSIGHT
+AN INSIGHT IS NOT
+AN INSIGHT IS
+HOW DO YOU KNOW WHEN YOU
+HAVE A SIGNIFICANT INSIGHT?
+INSIGHT GENERATION
+         • The “Define” stage involves collating all the data from
+           the “Empathize” stage in order to drill down to the exact
+           problem that NEEDS to be solved (Mark the word
+           problem, not solution)
+         Goals:
+         • To develop a deep understanding of the users & the
+           design space and come up with an individual statement
+           or point of view
+DEFINE   • To craft a meaningful and actionable problem
+           statement, ensuring we are solving the right problem
+         • Point of view should be guiding statement that focuses
+           on specific users, insights and needs
+         • Understanding the meaningful challenge/problem is
+           fundamental to building a successful solution
+    UNDERSTAND
+A well defined problem is a
+
+
+
+
+   of a solved problem
+
+
+                              25
+            UNDERSTAND
+
+
+
+
+  A deep understanding of the problem
+   helps you to “frame” correctly your
+research and stimulates your imagination
+           during the process
+                                           26
+     USING    • Robust user research and a strong analysis
+              of the data are critical for refining and
+ RESEARCH     clarifying your understanding of the user
+TO REFRAME    problem.
+              • This new understanding of the problem is
+        THE   based on your empathetic understanding of
+              the users' problem. You will use the story
+   PROBLEM    that emerges from your research to
+ DEFINITION   communicate your new understanding of the
+              problem to stakeholders, help the team
+              focus its work in upcoming design thinking
+              stages, and use it to check against proposed
+              solutions.
+              • This is the point where you will reframe
+              your initial problem description into a more
+              clear and detailed problem definition.
+
+                                                        10/20/26   27
+What are the   • Provides clear and concise descriptions of deficiencies,
+aspects of a   inefficiencies, or lack of responsiveness to needs in the
+               current situation
+       solid   • Identifies the individual or entity most likely to benefit from
+               a strong solution
+  reframed     • Describes why the problem matters to users
+
+   problem     • Describes why previous solutions to the problem did not
+               succeed
+ definition?
+
+
+
+
+                                                                              10/20/26   28
+What are the aspects of a
+solid reframed problem
+definition?
+• Indicates the advantages of the new potential
+solution(s)
+• States the most promising opportunities and
+potential risks
+• Throughout the rest of the design thinking
+process, you will come back to the reframed
+problem definition to select which ideas and
+potential solutions are more or less likely to be
+successful based on your current understanding of
+the user research.
+
+
+
+
+                                               10/20/26   29
+             • They are created based on a deeper
+             understanding of your specific users, their
+             needs and your most essential insights about
+             them.
+             • A good Problem Statement will allow you to
+             ideate and solve your design challenge in a
+             goal-oriented manner in which you keep a
+   Problem   focus on your users, their needs and your
+             insights about them.
+Statements   • Your Problem statement should never
+             contain any specific solution, nor should it
+             contain any indication as to how to fulfill your
+             users’ needs in the service, experience, or
+             product you’re designing. Instead,
+             • Your Problem statement should provide a
+             wide enough scope for you and your team to
+             start thinking about solutions which go
+             beyond status quo
+              From the point of view of the user
+              • I am (persona) trying to (verb) but (barrier) because (cause) which
+              makes me feel (emotional reaction)
+              • Example: “I am a new mum trying to take care of my baby in the best
+              way possible, but I don’t know if I’m doing a good job because I’m always
+   Creating   at home alone and don’t have anyone to talk to about it, which makes me
+              feel isolated and alone”
+
+   Problem    Drawn from user research
+              • (Persona) needs a way to (user’s need) because (insight)
+Statements    Example: A new mum needs a way to connect with other mums because
+              they are often at home alone during the day and feel isolated and alone.
+              Using the 4 Ws
+              • How might we help (who) who has/have (the problem I.E what) when
+              (where)? Our solution should deliver (why)
+              • How might we help a new mum who has no one to talk to about the
+              best way to care for her baby when she is at home alone every day. Our
+              solution should deliver a way for her to feel connected to other mums so
+              she feels less isolated and alone.
+Point of View
+
+• DEFINE
+
+• Define the type of person you are designing for –
+your user.
+• Ex: define the user by developing one or more
+personas
+• Select the most essential needs, which are the
+most important to fulfil. Extract and synthesise the
+needs you’ve found in your observations, research,
+fieldwork, and interviews. Remember that needs
+should be verbs.
+• Work to express the insights developed through
+the synthesis of your gathered information.
+Point of View
+  Combine these three elements – user, need, and insight – as an actionable problem
+  statement that will drive the rest of your design work using the following template.
+  [User . . . (descriptive)] needs [Need . . . (verb)] because [Insight . . . (compelling)]
+
+  Example: An adult person who lives in the city... needs access to a shared car 1-4 times for 10-
+  60 minutes per week ... because he would rather share a car with more people as this is
+  cheaper, more environmental friendly, however it should still be easy for more people to share.
+              • Define the type of person you are designing for – your user.
+              For example, you could define the user by developing one or
+              more personas, which help you to understand and crystallise
+              your research results – observations, interviews, fieldwork,
+              etc.
+
+   Creating   • Select the most essential needs, which are the most
+              important to fulfill. Again, extract and synthesise the needs
+
+   Problem    you’ve found in your observations, research, fieldwork, and
+              interviews. Remember that needs should be verbs.
+
+Statements    • It must be user-centred
+              It should be about the people/person you are trying to solve
+              the problem for and not the technology or tool to be used
+              It must be broad enough to allow creative freedom
+              It should not focus on a specific implementation approach
+              It must be Narrow enough to make it manageable.
+              • Forward Looking: A good problem statement must contain
+              seed of possibilities
+              • Make your statement Action Oriented
+Creating Problem Statements
+using the 4 W's (How Might We)
+• Who: Who is affected? Who is experiencing the
+problem? Can this user be further specified (by
+demographic, persona, motivations etc)
+• What: What are the struggles? What tasks needs to be
+accomplished? What pain points needs to be relieved?
+• Where: What is the context in which the user
+experiences what was discussed in the “What”? What
+pain points needs to be relieved? Where does the pain
+occur?
+• Why: Why is this problem worth solving? What value
+does it bring to the user? What value does it bring to the
+business ?
+HMW’s - How Might We
+
+ Every problem is an opportunity for design.
+ By framing your challenge as a How Might We question, you’ll set yourself up for an innovative
+ solution.
+
+
+
+
+                                                                                                  36
+How Might We
+  "How" suggests that we do not yet have the answer.
+     “How” helps us set aside prescriptive briefs. “How” helps us explore a variety of
+     endeavours instead of merely executing on what we “think” the solution should be.
+
+
+  "Might" emphasises that our responses may only be possible solutions,
+  not the only solution.
+     “Might” also allows for exploration of multiple possible solutions, not settling for the
+     first that comes to mind.
+
+
+  "We" immediately brings in the element of a collaborative effort.
+     “We” suggests that the idea for the solution lies in our collective teamwork.
+                                                                                                37
+                    The “How Might We” method is constructed in such a way that it
+                    opens the field for new ideas, admits that we do not currently know
+                    the answer, and encourages a collaborative approach to solving it.
+
+                    By framing your challenge as a How Might We question, you’ll
+                    prepare yourself for an innovative solution in the third Design
+                    Thinking phase, the Ideation phase.
+
+Creating Problem    Begin with your problem. Rephrase by asking “how might we” at the
+Statements using    beginning
+
+
+   the 4W’s (How
+        Might We)   Break the problem into smaller actionable & meaningful questions
+
+
+
+
+                    Brainstorm the questions before the solution
+
+
+
+
+                    If your questions are too broad, narrow down; and vice versa
+            • When you’ve re-defined your design challenge, you can
+            start by asking a specific question starting with, “How-
+            Might-We?” or “in-what-ways-might-we?”.
+            • For example, if your problem is: “Teenage girls need... to
+            eat nutritious food... in order to thrive and grow in a
+            healthy way.”
+How Might
+      We    • How Might We make healthy eating appealing to young
+            females?
+            • How Might We inspire teenage girls towards healthier
+            eating options?
+            • How Might We make healthy eating something, which
+            teenage girls aspire towards?
+            • How Might We make nutritious food more affordable?
+HOW MIGHT WE
+

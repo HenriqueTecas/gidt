@@ -1,0 +1,367 @@
+             Gestão de Inovação e
+                  Design Thinking
+Innovation Management and Design    Joana Mendonça
+                         Thinking   Joana.mendonca@tecnico.ulisboa.pt
+
+                         2026/27
+               Wednesday 09h30-11h30
+Office hours
+                (scheduled in advance)
+                Innovation and Strategy
+              Design Thinking Overview
+Course Plan
+                                Inspire
+                                 Ideate
+                            Implement
+                   DT and Organization
+                              Change
+                                  Pitch
+               Designing for Growth: A manager’s design thinking
+               toolkit: Jeanne Liedtka and Tim Ogilvie 2011 COLUMBIA
+               UNIVERSITY PRES
+
+               Change by Design: How Design Thinking Transforms
+               Organizations and Inspires Innovation: Tim
+               Brown 2009HarperCollins
+
+
+Bibliography   Democratizing Innovation: Eric von Hippel 2055 MIT Press
+
+
+               Goffin, K. and Mitchell, R. (2017) Innovation Management:
+               Effective Strategy and Implementation (3rd edition).
+               Palgrave.
+
+               Schillings, M. (2019) Strategic Management of Technological
+               Innovation (6th edition). McGraw-Hill Education.
+                                        Week 8 - Nov 4th   Mid term
+Course Evaluation                       and Nov 5th
+                                                           presentation –
+                                                           in class (25%)
+Group Evaluation (70% of the grade) –
+Design Thinking Project
+
+
+                                        16th and 17th      Final Pitch
+                                                           Presentation
+                                        December           (25%)
+
+
+
+
+                                                           Project report
+                                        21 December        (50%)
+                                           Five in- class task submissions and class
+                                           participation (20%)
+Course Evaluation                          • 22nd September
+Individual Evaluation (30% of the grade)
+                                           • 7th October
+                                           • 21st October
+                                           • 18th November
+                                           • 25th November
+
+                                           4 submissions mandatory (5= bonus)
+
+
+                                           Peer evaluation (10%)
+          Introduction of concepts
+
+Classes
+Methods
+          Tools & Application
+
+
+
+
+                                     12
+What is innovation?
+What is Innovation?
+“ An innovation in the economic sense is accompanied
+with the first commercial transaction involving the new
+product, process, system or device, although the word is
+used to describe the whole process.” Christopher Freeman
+(1982)
+
+
+ Process
+ Discovery, experimentation, development and adoption
+ of novelties
+
+
+ Origin                        R&D
+ From the Latin innovare: to   Creative work to increase
+ renew, to make new, to        knowledge and develop
+ change                        applications
+Innovation vs. Invention
+
+
+
+
+Invention                          Innovation
+• New idea or model                • Commercial transaction
+• Creation of a device             • Introduction of change
+• Conversion of money into ideas   • Conversion of ideas into money
+ Types of Innovation
+Categories of innovation according to Joseph Schumpeter
+(1934):
+
+
+
+ New Products                      New Processes
+ Introduction of new goods to      Introduction of new methods
+ the market                        of production
+
+
+ New Markets                       New Sources
+ Expansion into unexplored areas   Different raw materials and inputs
+
+
+ New Structures
+ Reorganisation of industries
+Marketing Innovation
+  New Methods                   Design and Packaging              Sales Channels
+  Novel approaches to promote   Changes in product presentation   Introduction of new distribution
+  products                                                        forms
+       Organisational Innovation
+                  New Internal Practices
+                  Reorganisation of business routines and procedures
+
+                           Redistribution of Responsibilities
+                           New methods for assigning functions and decisions
+
+                              External Relationships
+                              Innovative collaborations with suppliers and partners
+
+
+
+
+(Oslo Manual, OCDE 2005)
+   (Oslo Manual, OCDE 2005)
+Nature of Innovation
+Radical Innovation                Architectural Innovation
+New technology, new market        Existing technology, new market
+
+
+
+Disruptive Innovation             Incremental Innovation
+New technology, existing market   Existing technology, existing market
+                    Types of Innovation
+
+
+         New        Architectural Innovation                 Radical Innovation
+
+
+
+Market
+
+
+
+         Existing
+                     Incremental Innovation                 Disruptive Innovation
+
+
+
+
+                          Existing                                    New
+                                               Technology
+                                      Types of Innovation
+
+                    Architectural Innovation- innovations
+                    that use existing technology in a new     Radical Innovation- Entering a
+         New        market. For example, adapting an          new market, using new or
+                    existing product to meet the needs of a   revolutionary technology.
+
+Market
+                    different consumer group.
+
+
+                                                              Disruptive Innovation -
+         Existing
+                     Incremental Innovation -
+                     small improvements for the               introduction of a product or
+                     existing market and using                service using new
+                     existing technologies.                   technologies in an existing
+                                                              market
+                               Existing                                New
+                                               Technology
+Where does Innovation come from?
+                                           •   Innovation oriented primarily towards
+                                               finding new applications for technical
+                                               improvements in products and
+Technology-Push ou Capability-Push             processes
+                                           •   Technical knowledge concentrated in
+                                               those responsible for innovation
+                                           •   They are the most frequent source of
+    Technology-push: technological
+    advances driven mainly by
+                                               radical changes in markets and
+    technical or scientific discoveries,       companies' organizational structures
+    only secondarily orientated to the     •   Examples: steam machines; penincillin
+    market specific needs                      and antibiotics; transistors and
+                                               microprocessors; PCs; digital
+                                               photography, cinema and television;
+                                               biosensors
+Technology-Push Innovation
+
+
+          Scientific Discovery
+          Technical breakthroughs occur in research settings.
+
+
+                           Application Development
+                           Potential commercial uses for new technology are explored.
+
+
+                                             Market Identification
+                                             Target customers for the new technology are identified.
+                                       •   Innovation aimed primarily at
+                                           satisfying the needs of a specific
+                                           market or consumer group
+Market-Pull or Opportunity-pull        •   More often incremental in nature,
+                                           associated with improvements to
+                                           technologies already available on the
+                                           market - the perception of
+    Market pull: technology advances
+    made in the sequence of
+                                           opportunity based on markets and
+    identified market need, and only       products
+    secondarily motivated by           •   Examples: drugs that affect the
+    discoveries of technical or            chemical composition of the human
+    scientific nature                      body specifically aimed at treating
+                                           nervous depression, or Alzheimer's
+                                           disease; development of new sail
+                                           designs for Windsurfing
+Market-Pull Innovation
+      Market Need Identified
+      Research reveals specific customer problems requiring solutions.
+
+
+
+
+      Solution Development
+      Technical teams work to address the identified need.
+
+
+      Solution Validation
+      Products tested against original market requirements.
+
+
+      Market Launch
+      Solution introduced to satisfy the initial need.
+                                                                  • Users, firms or individuals, are important
+         User Innovation                                            for the innovation process, and have an
+                                                                    active role in the development of new
+                                                                    products and services
+                                                                  • Consumers have experience of use and
+                                                                    participate directly in the development
+                                                                    of the new product
+"series of studies showing that the sources of                    • Users create or modify products and
+innovation vary greatly... test some implications of
+replacing the manufacturer-as-innovator assumption                  services in order to fulfil their own
+with the view of the innovation process as predictably              needs, and it is not uncommon that
+distributed across users, manufacturers, suppliers and              these innovations are made freely
+others.”
+                                                                    available to other users and even to
+  Eric von Hippel, The Sources of Innovation, Oxford University     producers
+                                                  Press (1988)
+
+                                                                               (Harhoff et al., 2003; Oliveira and von Hippel, 2010)
+        User
+        Innovation
+
+• user innovation suggests an
+alternative to mass
+customization- manufacturing
+process that seeks to tailor
+products to specific users while
+maintaining the economies of
+large-scale production
+
+
+Source: Eric von Hippel, Democratizing Innovation,2005
+
+
+                        29
+User Innovation: Mountain Bike
+
+  User Need Identification
+  Gary Fisher identified the need for off-road biking equipment in 1979.
+
+
+
+     User-Led Development
+     Fisher created his own solution rather than waiting for manufacturers.
+
+
+
+         Market Transformation
+         User innovation led to an entirely new product category.
+User Innovation
+
+      World Wide Web invented by Tim Berners-Lee (1989)
+      Created to share data with physicists globally
+
+
+
+
+                                         User-driven solutions often lead to
+                                         breakthrough innovations
+User Innovation
+• ”(…)I grabbed one of the Crocs,
+pulled some buttons, rhinestones
+and fabric out of the sewing kit, and
+stuck them in the holes. Lexie said,
+'Mum, I love that!’”
+• Sheri and Lexie, then seven, spent
+the rest of the day filling holes in the
+family's 12 pairs of Crocs. Every look-
+alike shoe was suddenly unique.
+                                           32
+          Technology
+
+"Technology" includes all equipment, artifacts, processes, tools, methods
+and materials that can be applied in the production and marketing of
+products and services
+
+
+
+
+                                                                       33
+Apple I    Xerox
+(1975)     Alto
+           (1972)
+
+
+
+
+Apple II            IBM PC
+(1977)              (1981)
+           34
+Technology S-curve
+
+
+
+
+                     Source: based on Foster, 1996   35
+                           Innovation Diffusion
+Diffusion is the process by which an innovation is spread accross time
+
+     “S” curve of Diffusion                                    Number of accumulated adoptions
+
+
+
+
+Number of
+users
+                                                                    Frequency of adoptions
+
+
+
+
+                                  Tempo
+    8/10/26                                                                              36
+8/10/26
+Innovation is also built on
+dreams and visions of the
+         future
+

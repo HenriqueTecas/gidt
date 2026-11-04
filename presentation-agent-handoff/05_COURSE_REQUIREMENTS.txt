@@ -1,0 +1,79 @@
+COURSE AND ASSIGNMENT CONTEXT
+
+Course: Gestão de Inovação e Design Thinking / Innovation Management and
+Design Thinking, Instituto Superior Técnico, 2026/27.
+Lecturer named in the supplied material: Joana Mendonça.
+
+THE USER-SUPPLIED ANNOUNCEMENT
+The earlier conversation includes this announcement dated 25 October 2026:
+
+“Dear all,
+the Mid-term presentation will be as schedules in week of the 2nd of November
+in the lab classes.
+Each group will present in their now lab classes (wednesday or Thursday).
+The presentation should last 5 minutes and must include the following
+information:
+- Problem;
+- Tools and methods used for research;
+- Most relevant research results;
+- Insights you have generated;
+- Reframed problem (HMWs).
+The goal is to discuss your current work.
+It is not mandatory that all elements of the group present.”
+
+Source: conversation/original-conversation.md, user's “Latest Announcements”
+message. This is supplied text, not a fresh check of the course website.
+
+CURRENT USER OVERRIDES FOR THIS DELIVERABLE
+The user explicitly asks for an 8–10-minute speaking presentation and says
+three people will present. The current script is nine minutes with three
+approximately equal sections. Follow this for deck creation. Keep the five-
+minute official announcement visible in this handoff as a known discrepancy;
+do not invent an announcement granting extra time. The numbered plan and
+script supersede the older six-slide, five-minute outline.
+
+FIXED CHALLENGE
+“How can we encourage youth (aged 14–18) to participate and intervene in
+urban mobility solutions?”
+
+Reframing narrows the challenge; it does not replace it. Participation and
+intervention concern influence on mobility choices and decisions, not only
+transport use. Focus on research and Define-stage outputs. The supplied
+announcement lists no solution-pitch section; the existing project plan
+therefore keeps proposed products and interventions for later phases.
+
+THE COURSE LANGUAGE TO APPLY
+- Double Diamond: Discover, Define, Develop, Deliver. The current work is
+  in Discover/Define; synthetic material does not prove Discover is complete.
+- Observation/scenario content is different from interpretation and insight.
+- An insight explains a possible underlying motivation or cause; a quote,
+  statistic, request or proposed solution is not automatically an insight.
+- Point of view: [User] needs [Need as a verb] because [Insight].
+- HMW: “How Might We…”, an open question derived from an insight. Do not
+  build an app, budget, game or workshop into the question itself.
+- User-centred scope: specific enough to investigate, broad enough to allow
+  more than one possible response.
+- Tools in the source materials include interviews, observation, extreme
+  users, stakeholder maps, empathy maps, personas, journey mapping,
+  documentary research and grouping observations into themes. Only claim
+  methods actually used. Here the role-play scenarios are hypothetical
+  contrasting profiles, not recruited extreme users or real field interviews.
+
+HOW TO USE THE SIX PDFs
+1. Design Thinking_2627_insights.pdf — main source for insights, POV and HMWs.
+2. Design Thinking_2627_4 (3).pdf — research methods, empathy and personas.
+3. DT-template_EN (4).pdf — research-to-synthesis worksheet; an older template
+   supplied with this course, not a new dated assignment announcement.
+4. GIDT2627_Design Thinking Overview (1).pdf — overall process context.
+5. Design Thinkin 2627_1 (4).pdf — course overview/background.
+6. Aula_23Setembro (1).pdf — guest-session/background material.
+
+Prioritise the first three. Do not fill the longer speaking slot with
+innovation theory, S-curves, or lengthy explanations of every framework.
+
+SOURCE LIMITS
+The archived Fenix snapshots contain older-year pages and may include
+authentication or stale material. Do not treat them as live requirements.
+The conversation mentions an upload deadline and grading weights, but those
+are not required for the deck and were not reverified in this handoff.
+Do not display them as current administrative facts without verification.
