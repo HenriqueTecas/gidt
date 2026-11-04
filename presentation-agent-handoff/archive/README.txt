@@ -1,0 +1,1 @@
+These Fenix HTML files were saved during an earlier session. They include prior-year pages and may contain stale or login-only content. They are background context, not a fresh verification of current requirements. Prefer the supplied lecturer announcement in 05_COURSE_REQUIREMENTS.txt.

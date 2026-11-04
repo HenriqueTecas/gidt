@@ -1,0 +1,20 @@
+LATEST USER REQUEST
+“give me all the context on a folder to give to slide creating agent , for the presentation to be 8–10 minutes of speaking and show me the folder in finder open it”
+
+CURRENT DELIVERABLE
+This folder is the requested presentation-agent handoff. The slide deck itself has not been created yet. The current target is 8–10 minutes of spoken delivery, with a nominal nine-minute script. This supersedes the earlier five-minute outline for deck production, but does not establish that the lecturer changed the course requirement.
+
+COMPLETED SINCE THE ATTACHED CONVERSATION
+All seven simulated interviews were recovered. They were not regenerated. Their dialogue was reviewed, a synthetic synthesis and combined report were created, and a neutral fieldwork guide was added. Exact quotations and links were checked. The synthesis has themes, an empathy map, four provisional insights, a point of view and four HMWs. No real interviews or field observations were added. The original research report's citation tokens remain unresolved.
+
+PRIOR USER INTENT
+The user asked to start with potential solutions and work backwards, then requested sub-agents acting as synthetic participants. These are role-play stories, not human research. The earlier favoured concept combines a school-area audit, small budget and temporary street experiment. Keep it as internal context or optional backup; the mid-term narrative should reach reframing and HMWs rather than claim the concept is validated.
+
+LANGUAGE AND AUDIENCE
+Existing project writing is in English. Default deck language: English. Audience: GIDT lecturer and classmates at Instituto Superior Técnico, 2026/27.
+
+ADDITIONAL USER STEERING
+“we are 3 people presenting”
+“is it working with the handovers”
+
+The final plan assigns three continuous sections with two scripted handovers. Speaker 1: slides 1–3, approximately 0–3 minutes. Speaker 2: slides 4–6, approximately 3–6 minutes. Speaker 3: slides 7–10, approximately 6–9 minutes.

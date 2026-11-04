@@ -1,0 +1,94 @@
+TASK FOR THE SLIDE-CREATING AGENT
+
+Create an English presentation for the GIDT 2026/27 mid-term at Instituto
+Superior Técnico, for the lecturer and classmates. Build an editable deck
+with complete speaker notes, using the source material in this folder.
+
+The latest user requests are:
+- 8–10 minutes of SPEAKING, excluding any Q&A.
+- THREE PEOPLE presenting.
+- Natural handovers that work as part of the argument.
+
+Use a nominal nine-minute presentation with ten main slides and three equal
+speaking blocks. Speaker 1 owns slides 1–3, Speaker 2 owns slides 4–6, and
+Speaker 3 owns slides 7–10. Handover only after slides 3 and 6, at about
+3:00 and 6:00. Do not introduce a handover on every slide. Follow the full
+script in 03_SPEAKER_SCRIPT_9_MIN.txt, refining wording only if meaning and
+evidence labels are preserved. Keep the two spoken handover lines and the
+receiving speaker's bridge. Timing is a rehearsal target, not a guarantee.
+
+Read 00_START_HERE.txt and 05_COURSE_REQUIREMENTS.txt before authoring.
+Then use 02_PRESENTATION_PLAN_8-10_MIN.txt for the content sequence and
+04_EVIDENCE_AND_QUOTE_BANK.txt for exact scenario excerpts. The detailed
+reasoning is in research/synthetic-research-appendix.md. The source PDFs
+are in course-materials/pdf/ and searchable extracts in course-materials/text/.
+
+COMMUNICATION JOB
+By the end, the audience should understand which explanations for limited
+youth participation deserve testing, how those explanations lead to a
+specific problem statement, and what evidence would change the team's view.
+
+FIXED CHALLENGE
+“How can we encourage youth (aged 14–18) to participate and intervene in
+urban mobility solutions?”
+
+Required sections: problem; tools and methods; most relevant research
+results; insights; reframed problem/HMWs. Cover Discover and Define.
+The brief is about teenagers influencing mobility, not simply taking a bus.
+The working scope is journeys to a Lisbon school, including connections and
+home-side barriers. No specific school or site has been selected.
+
+EVIDENCE RULES
+The seven transcripts are explicitly AI-generated role-play scenarios, not
+real interviews. Do not call them participants, observed behaviour or
+validated findings. Count them only as six teen scenarios and one parent
+scenario. Label synthetic quotations clearly. Keep provisional insights
+labelled. Preserve counterexamples instead of implying all teenagers agree.
+
+The original desk report's citation tokens are unresolved. Do not reproduce
+those tokens on slides or silently turn its numbers into established facts.
+If external figures or benchmark outcomes are useful, verify them against
+real sources and cite precise URLs and dates in notes. Otherwise omit them.
+The supplied speech is designed to work without them.
+
+The prior idea of a school audit, small budget and street experiment is
+context for the research direction, not a validated solution to pitch.
+Do not use the €5,000/six-week scenario as an agreed budget or delivery plan.
+Do not invent fieldwork, photos of participants, group details or source URLs.
+
+FRAMEWORKS TO USE SELECTIVELY
+- A small Double Diamond identifying Discover and Define.
+- Scenario detail → interpretation → provisional insight → HMW.
+- Point of view: user + need as a verb + insight.
+Use a stakeholder map or empathy map only if it improves clarity; they are
+available for backup. Avoid a theory lecture or a diagram on every slide.
+
+DESIGN
+Use a clean, readable 16:9 academic presentation with strong visual hierarchy.
+Course PDFs are content references, not a mandatory visual template.
+Keep one main message per slide, concise on-slide text and fuller speaker
+notes. Use large type, generous spacing, and clear contrast. Keep four
+insight explanations short enough to read. Use exact short excerpts rather
+than paragraphs. Do not use charts or percentages based on synthetic cases.
+Do not depict fictional characters as photographed research participants.
+Do not show agent instructions, rehearsal timecodes or speaker numbers on
+the audience-facing slides; put those in notes or a separate run sheet.
+
+DURATION CONFLICT
+The lecturer announcement supplied in the earlier conversation says FIVE
+minutes. The user's current instruction is 8–10 minutes; follow it here.
+Do not claim the official time limit was changed. Keep the earlier five-
+minute outline as reference only, not the production plan. No clarification
+is required to build the version the user has requested.
+
+DELIVERABLES
+Save an editable presentation in deliverables/, preferably .pptx, with
+speaker notes containing the script, owner, target duration and handovers.
+Also save a speaker run sheet for rehearsal and an exported PDF if available.
+Render and visually inspect every final slide; fix clipping, overlap and
+unreadable sources. Check quotations against the included transcript files.
+Count the spoken words per presenter and keep the allocation approximately
+equal. Preserve 8–10 minutes for the speech itself; Q&A is additional.
+
+Do not wait for the team to provide names to build the deck. Names can be
+added later. The requested handoff already contains enough context to work.

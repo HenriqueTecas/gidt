@@ -1,0 +1,283 @@
+DESIGN THINKING
+
+    Guide for research
+
+
+                         Guilherme Victorino
+                         Joana Mendonça
+                         2022/23
+                          1- INSPIRATION
+
+
+• Understanding the challenge
+In this phase, the aim is to get to the bottom of the initial problem through
+various sources and methods, including, for example, interviews and
+documentary research.
+The aim is to get to the bottom of the initial problem using various sources,
+interviews and observation and empathy tools to achieve insights.
+What we identified about the challenge   What we know
+
+
+
+
+                                         What we want to know more about
+
+
+
+
+Rewriting the challenge
+                                   1 - I N SP I R AT I O N - P R E PA R E R E S E A R C H
+
+
+To gather insights and observe, we use a combination of different methods: collecting ethnographic data in the field,
+conducting interviews, reviewing patents, collecting data and trends, manufacturing processes, vendors and
+subcontractors. This information can be collected in notes, pictures, images and videos and recorded conversations
+
+• Methods to be used:
+  Ethnography; mobile ethnography, netnography
+  Documentary research
+  User observation
+  Identifying and using extreme users
+  Interviews
+
+  We use observation and research to identify surprises and events that we don't expect, so we don't observe average
+  users, but extreme cases, since extreme users have a more pronounced behavior.
+  This observation work allows us to identify differences between what people say and what people do and think. At
+  this stage, we also look for adaptations and improvisations that people may make and hidden passions.
+      Human Data and Models              Capture of Needs, Desires      Simulation of Possible Futures
+                                              and Meanings
+- Anthropometric data sets and models   Verbally based                  - Focus groups
+- Biomechanical data sets and models                                    - Lead user design
+- Psychophysical data sets and models   - Ethnographic interviews       - Co-design
+- Cognitive data sets and models        - Questionnaires                - Storyboard futures
+- Emotional data sets and models        - Day-in-the-life analysis      - Experience prototypes
+- Psychological data sets and models    - Activity analysis             - Para-functional prototypes
+- Sociological data sets and models     - Cognitive task analysis       - Role playing
+- Philosophical data sets and models    - The five whys                 - Real fictions
+                                        - Conceptual landscape
+                                        - Word-concept association
+                                        - Think aloud analysis
+                                        - Metaphor elicitation
+                                        - Be your customer
+                                        - Customer journey
+                                        - Extreme Users
+                                        - Personas
+                                        - Scenarios
+                                        - Brainstorming
+                                        - Contextual Inquiry
+
+                                        Non Verbally based
+
+                                        - Game playing
+                                        - Cultural Probes
+                                        - Visual journals
+                                        - Error analysis
+                                        - Fly-on-the-wall observation
+                                        - Customer Shadowing
+                                        - Body language analysis
+                                        - Facial coding analysis
+                                        - Physiological measures
+                                        - Electroencephalograms
+
+                Table 1) Frequently deployed human centred design tools.
+                                                                                                         Fonte: Joseph Giacomin
+                                          TECHNIQUES
+
+
+• Parallel worlds – other contexts from which we can make parallels, and adapt to our context
+• Extreme users - allows you to find inconsistencies, their behavior is more prominent and therefore
+  easier to identify. The hard part is sometimes finding the extreme users (the ideal is to observe the
+  two ends of the spectrum in pairs).
+• A day in the life - ethnographic technique - I ask someone to describe their day to me, with photos
+  and comments, recording their frustrations or the things that don't work.
+• Fly on the wall - passive observation
+• Empathic experience - we impersonate the client
+• Ways of obtaining information: Verbal (interviews); non-verbal (observation)
+                                        FERRAMENTAS: STAKEHOLDER MAP
+
+•   For this activity you will create a stakeholder map and then reflect on that process. To build the stakeholder map:
+1. Summarize in a few sentences the project you're working on with this group of stakeholders.
+
+2. Brainstorm an initial list of stakeholders.
+
+3. Once you've brainstormed the list, think about how they're related, knowing that you can rearrange them in the future. Group the stakeholders by their relationship.
+4. Think about potential categories for each related group, and work to name each category.
+
+5. Ascribe motivations to each group of stakeholders - what is driving their behavior that is influencing you or your project? What's driving their decision-making behavior?
+   Frame this in a positive way.
+
+6. If possible, draw connections that reflect how different clusters might be related.
+
+•   Once you've created your map, complete this reflection:
+•   How did this process help you build your team?
+
+•   What stakeholders did you include that you may not have originally included?
+
+•   What are the advantages to building stakeholder maps as part of the innovation process?
+•   Describe a feasible method for you to iterate your stakeholder map as you move through a project.
+         1- INSPIRATION -
+        PREPARE RESEARCH
+
+•   You can use different methods to go into depth on
+    different issues, as in the example table - make a table to
+    prepare your work and decide which group member does
+    what
+Prepare Research
+ Identifying Sources of Inspiration                                      Identifying Places of Inspiration
+ Who are all the people involved in your topic? Who can represent        Where can you go to have an inspiring experience related to your challenge? What are
+ extreme behaviors related to your topic? Which experts do you           analogous scenarios or extreme experiences where you can witness similar or relevant
+ want to meet to find out more about your topic? List the                behaviors and activities in a different context? List as many places as you can and circle
+ candidates you think will give you the most inspiration and circle 3-   3-5 that you are most excited to observe first.
+ 5 with whom you want to engage first.
+
+
+                                    People                                                                      Places
+Selecting research participants
+Who specifically do you want to talk to and learn from? Create detailed descriptions for at least 3 different users or
+sources of inspiration. Make sure you cover a range of gender, experience, ethnicity, etc.
+
+
+Person:                                                         Person:
+________________________________________                        _______________________________________
+
+Description:                                                    Description:
+
+
+
+
+Person :                                                        Person :
+________________________________________                        ________________________________________
+
+Description:                                                    Description:
+Building an Interview Script
+                                                                                                                                                  Make a file
+What do you want to learn in order to better understand the challenge at hand? What do you hope to                                                 for each
+understand about people's motivations and frustrations? What do you want to learn about their                                                       person
+
+activities?
+Interviewee:_____________________________
+                                                                                                  What are some ways to deepen the conversation, to find out even
+                                                                                                  more about this person's perspective?
+What are some specific questions you can   What are some questions that can help you begin to
+ask to open up the conversation?           understand this person's hopes, fears and ambitions?
+Building an observation guide
+                                                                                                                                                         Make a file
+What do you want to learn from this observation? Capture themes and questions that you want to                                                            for each
+make sure you get to when you visit the site.                                                                                                               place
+
+
+
+Place:_____________________________
+
+What are some things you want to make sure you observe while visiting this place?   What are some things you can do to gain inspiration in this place?
+Inspiration                                                                                                                                            Make a file
+                                                                                                                                                        for each
+    Capture what you see and hear during interviews and observations. Capture concrete quotes. Separate your observations from your interpretations.
+                                                                                                                                                       place and
+    Look for solutions and adaptations that people have made to make a system that better suits their needs, such as books stacked under a laptop to
+                                                                                                                                                       interview
+    make the screen a better viewing height.
+
+
+Place/Interview:_____________________________
+
+Observations and quotes                                                                      Interpretation
+                2- INTERPRETATION
+
+
+• Interpreting the results and discovering
+In the inspiration phase, we understand the challenge and
+gain empathy.
+In this phase, we want to interpret what we have collected,
+give it meaning and define insights from our observations
+and interviews.
+Telling the story
+Immediately after the interview or observation, record what   What is the person's greatest motivation? And their biggest
+you have learned. Record an observation, highlight from the   concern?
+story or quote.
+
+Place/interview:_____________________________
+
+What was the most memorable and surprising story?
+
+
+                                                              What's your biggest frustration?
+
+
+
+
+What was interesting about your interaction with the
+environment?                                                  What questions would you like to ask?
+Share the most inspiring stories
+Share the stories as a group and capture the most            What I learned from the team
+interesting observations and learnings on notes or post-it
+notes (physical or virtual).
+
+What I learned from the team
+
+
+
+
+                                                             What I learned from the team
+
+
+
+
+What I learned from the team
+
+
+                                                             What I learned from the team
+                                                               Making Sense of Discoveries
+Find themes                                                    Take a closer look at the themes and find overlaps, patterns and tensions
+Look for themes, patterns and connections in your              that relate to each other. Can you group several related themes into larger
+notes. Gather your notes around themes or patterns             categories?
+that you identify. Create titles for each category that        Categories
+capture these themes
+
+Themes
+
+
+
+
+                                                          Did you find any contradictions? Any
+                                                                                                       Which categories do you want to
+                                                          unexpected learning or anything
+                                                                                                       explore?
+                                                          surprising? Why?
+
+                                                            Unexpected and surprising                   To explore
+Defining Insights                                            Making Insights Actionable
+Insights are a concise expression of what you have learned   Actionable ideas start with the right question, which identifies important
+                                                             opportunities through great INSIGHTS. Each "How Can We" (HMW) question
+from your research and inspiration. They are the "aha"
+                                                             will only address one part of your challenge so you can create multiple HMWs
+moments and unexpected learnings.                            and prioritize them for ideation.
+Insights are questions that invite us to explore
+                                                             How Might We                                                            Avoid
+Insight                                                                                                                         questions that
+                                                                                                                                 immediately
+                                                                                                                                    imply a
+                                                                                                                                   solution
+
+
+
+Insight
+
+
+
+
+Insight
+
+
+
+
+Insight
+DESIGN THINKING
+
+    Guide for research
+
+
+                         Guilherme Victorino
+                         Joana Mendonça
+                         2022/23
+

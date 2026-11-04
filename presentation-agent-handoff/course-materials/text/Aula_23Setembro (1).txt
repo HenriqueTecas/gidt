@@ -1,0 +1,820 @@
+GUEST LECTURE · DESIGN THINKING
+
+
+
+
+The Role of Generative AI in the
+Design Thinking Process
+What happens when human-centered innovation meets generative AI
+
+
+
+Ana Teresa Pena
+MSc Data-Driven Marketing · NOVA Information Management School
+                                        About Me & The NOVA Innovation and Analytics Lab
+
+
+                                          Who I am
+
+
+                                          I hold an MSc in Data-Driven Marketing from NOVA Information Management School, where my
+                                          thesis explored the role of generative AI within the Design Thinking process — supervised by
+                                          Professor Guilherme Victorino and Professor João Valente Cordeiro. My work sits at the
+
+   Ana Teresa                             intersection of human-centered design, data and emerging AI tools, and today’s session brings
+                                          that research directly to you.
+
+   Pena
+
+   MSc Data-Driven Marketing                           The NOVA Innovation and Analytics Lab
+   NOVA Information Management School
+
+
+                                          The Lab where this research was developed and tested. It works at the intersection of people and
+                                          data — combining Data Science, Design Thinking and Behavioral Sciences to turn new insights into
+                                          disruptive ideas and scalable solutions, for NOVA’s community and its partners. It champions
+                                          empathy, creativity, visualization and storytelling as tools for better decision-making.
+   apena@novaims.unl.pt
+
+
+Generative AI in Design Thinking                                                                                                             1
+   Translate Ideas Into Action
+                                                                                            Start Here
+
+
+
+
+   During the early phases of the process, we focus on experiments                         DESIRABILITY
+   that test the desirability of the idea.
+
+
+
+   In this phase, multiple experiments may be necessary.
+
+
+
+                                                                             FEASIBILITY                  VIABILITY
+   Once the idea shows some promise, additional design refinement is
+   required along with testing the idea for its viability and feasibility.
+
+
+
+
+Generative AI in Design Thinking                                                                                      2
+Generative AI in Design Thinking   3
+   Design Thinking Innovation Process
+
+
+                                              INSPIRE                      IDEATE                            IMPLEMENT
+
+
+
+
+                                   ABSTRACT
+                                                                                     Frame
+                                                                                     Opportunities
+                                                                                                        Brainstorm Ideas
+
+
+                                                                          Form Insights
+
+
+
+                                   CONCRETE
+                                                                Observe People
+                                                                                                     Try Experiments
+
+                                                        Define the Challenge
+
+                                                                                                                           © IDEO
+
+
+
+
+Generative AI in Design Thinking                                                                                                    4
+       OBSERVE PEOPLE
+
+
+
+       A lot of times people don’t know what they
+       want until you show it to them.
+       — STEVE JOBS
+
+
+
+
+Generative AI in Design Thinking                    5
+   Observe people where
+   they live, work and
+   socialize
+   for inspiration
+   and to gain empathy.
+
+
+
+
+Generative AI in Design Thinking   6
+   What people say they do and what they
+                                                                           say                  do
+   actually do are often different.
+
+
+   Qualitative research enables you to put                                       OBSERVATION
+   yourself in someone else’s shoes to get
+   beyond what they say to what they
+   think and feel.
+
+
+
+
+                                                                           think               feel
+   Today we will use mobile ethnography and extreme users as methods for
+   observing people.
+                                                                                   EMPATHY
+
+
+
+
+Generative AI in Design Thinking                                                                      7
+   Insight Generation
+
+          OBSERVATIONS                                      INTERPRETATION
+             (FACTS)                                             (Why)
+
+
+
+
+                                                                Insight 1                                 “Always learning something new in my Design Class.
+                                                                                                                              Whew!”
+
+
+
+
+                                                                Insight 2
+
+
+                                                                                                          “Homemade white Pepper at work! Such a pleasure!”
+       INSIGHT
+       Millennials want their lives to be an exciting adventure, even if that excitement comes in small
+       bits in their everyday lives
+
+
+Generative AI in Design Thinking                                                                                                                               8
+   An Insight Is Not…
+
+
+
+
+         AN OBSERVATION                                     A USER’S WISH                                     A SOLUTION
+
+
+                                                            Articulating user’s needs is perfect for
+         Observations are an incredibly important part
+                                                            identifying new features and incremental          Sometimes, there is a tendency to jump
+         of creating insights but are still only one data
+                                                            changes, but do not result in insights which      immediately to solutions or to formulate
+         point to consider and should never stand
+                                                            have the power to overwhelm existing              insights in a mission statements format.
+         alone.
+                                                            solutions and generate new ones.
+
+
+
+                                                                                                              The most powerful insights come from rigor
+         Facts lack the “why” and the “motivation”                                                            and serious analysis to translate large
+                                                            Insights are less apparent, intangible, latent.
+         behind a consumer’s behaviour.                                                                       amounts of data into concise and compelling
+                                                                                                              findings.
+
+
+
+
+Generative AI in Design Thinking                                                                                                                            9
+   How to Validate an Insight?
+
+
+
+
+                         AUTHENTIC                 NON OBVIOUS                           REVEALING
+
+
+                                               Something that is latent and less   the “why” and the “motivation”
+                       Based on observations
+                                                          apparent                      behind a behaviour
+
+
+
+
+Generative AI in Design Thinking                                                                                    10
+                                                                                          Pains
+   How Might We                                                                           Needs
+                                                                                          Dreams
+
+                                                                                  Design Challenge
+        Start by looking at the insight statements that
+        you’ve created.                                       INSIGHTS   HMW   Facts
+                                                                                          Data               Workarounds
+                                                                                          Trends             Hidden Passions
+                                                                                          Benchamark         Surprises
+        What further insights/topics arise from the design                                Ethnopragphy
+        challenge? These topics are subsets of the entire
+        problem. They focus on different aspects of the                                Observations
+        challenge.
+                                                                                          Patterns
+                                                                                          + Why?
+        Try rephrasing/reframing them as questions by                                     (mental model)
+        adding “How might we” at the beginning.
+                                                                                        INSIGHTS
+        The goal is to find opportunities for design, so if
+        your insights suggest several How Might We                                        Authentic        Business/Process
+        questions, that’s great!                                                          Non-Obvious      People
+                                                                                          Revealing
+
+                                                                                          HMW’s
+
+                                                                                         Opportunity
+                                                                                         Spaces
+
+                                                                                        IDEATION
+
+
+Generative AI in Design Thinking                                                                                     11
+   Select Your Best Idea Based on These Criteria
+
+
+
+
+                     INSPIRATIONAL                          CONNECTED                             RELEVANT
+
+
+              Your idea should be novel, exciting,
+             and easy to understand by someone       Your idea should meet a real need   Your idea should be relevant to the
+               not steeped in the process or the         and solve a real problem.           original design challenge.
+                                   topic.
+
+
+
+
+Generative AI in Design Thinking                                                                                               12
+   Designing an Experiment
+   Before investing a lot of time and resources, design and run an experiment to test the desirability, viability, or feasibility of your idea.
+
+
+
+
+          LOW RISK                                              QUICK & EASY                                            GENERATIVE
+
+
+
+          Conducted with a safe audience, at a
+                                                                Easy to build, easy to run (guideline:                  On target to answer a question that will
+          minimal cost (guideline: under 100
+                                                                under 1 hour).                                          grow the idea.
+          euros).
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                   13
+Generative AI in Design Thinking   14
+   Purpose of the Study
+   AI Transformation in Industries
+
+       • AI revolutionizes efficiency and creativity across sectors (Bughin et al., 2017).
+       • Innovation is essential to corporate competitiveness and adapting to market demands.
+
+
+   Design Thinking as a Solution
+
+       • A flexible, human-centered process to address complex problems.
+       • Balances human needs, technology potential, and economic goals (Brown, 2009).
+
+
+
+
+Generative AI in Design Thinking                                                                15
+   Purpose of the Study
+
+         Corporate Innovation Challenges
+                                                                                   Advances and Challenges of Corporate Innovation Studies
+
+
+
+
+         • Definition of innovation as creating, developing, and implementing
+         value-driven concepts (Chesbrough, 2003).                                 • Bridging theory and practice remains difficult, requiring new
+                                                                                   methodologies for quick adaptation (Baregheh et al., 2009).
+         • Innovation is vital for adapting to dynamic markets and meeting
+         consumer needs (Baregheh et al., 2009).                                   • Emerging technologies like AI bring both opportunities and challenges
+                                                                                   to corporate innovation (Fui-Hoon Nah et al., 2023).
+         • Key Challenge: Balancing Exploitation (current needs) vs. Exploration
+         (future needs) for sustained success (Corso & Pellegrini, 2007).          • AI’s Role: AI can enhance empathy, creativity, and experience in
+                                                                                   innovation while aligning with core principles (Verganti et al., 2020).
+
+
+
+
+Generative AI in Design Thinking                                                                                                                             16
+   The Innovator’s Dilemma
+   Corporate innovation means creating, developing and implementing value-driven concepts (Chesbrough, 2003) — and that constantly forces a choice.
+
+
+
+          EXPLOITATION                                                                              EXPLORATION
+
+          Refine what already works                                                                 Take risks on what’s next
+
+
+          Serve today’s customers better. Low risk, fast payoff — but it’s where                    Anticipate needs that don’t exist yet. High uncertainty, long horizon —
+          yesterday’s winners get comfortable.                                                      but it’s where tomorrow’s advantage comes from.
+
+
+
+
+         The dilemma: the approach that makes a company successful today is often exactly what makes it blind to the disruptive shift coming tomorrow (Corso
+         & Pellegrini, 2007).
+
+
+
+   Notice the parallel: just like every Design Thinking phase must diverge before it can converge, a company has to keep exploring before it can safely exploit. Miss either
+   half, and the dilemma wins.
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                               17
+   Literature Review
+   Analysis of Challenges within the Design Thinking Process
+
+
+
+                           Inspiration                      ROLE                                                            IMPORTANCE
+
+
+                           Trend Spotting                   Identifying future consumer needs and market
+                                                                                                                            Reducing risks and optimizing strategies
+                                                            dynamics
+
+
+
+
+                           Ideation                         ROLE                                                            IMPORTANCE
+
+
+                           Brainstorming                    Generating ideas and fostering creativity                       Removing obstacles and encouraging innovation
+
+
+
+
+                           Implementation                   ROLE                                                            IMPORTANCE
+
+
+                           Feedback                         Supplying information and perfecting adjustments                Ensuring project success and ongoing development
+
+
+
+
+   A design thinking process that incorporates trend identification, idea generation and feedback should be a comprehensive method to address difficulties and problems related to corporate
+   innovation.
+
+
+Generative AI in Design Thinking                                                                                                                                                               18
+   Literature Review
+   Through an in-depth exploration of the integration of generative AI in the design thinking, this study aims to:
+
+
+
+         Understand how generative AI affects the traditional stages of design                                   Understand the distinctive contribution that generative AI brings to the
+         thinking within corporate innovation                                                                    specific phases of the design thinking process
+
+
+
+   RESEARCH ASSUMPTIONS
+
+        1. Generative artificial intelligence enhances the overall design thinking process
+
+
+        2. The integration of generative artificial intelligence in the design thinking process enhances the output of the inspiration phase
+
+
+        3. The integration of generative artificial intelligence in the design thinking process enhances the output of the ideation phase
+
+
+        4. The integration of generative artificial intelligence in the design thinking process enhances the output of the implementation phase
+
+
+        5. The integration of generative artificial intelligence in the design thinking process increases individuals’ creative confidence
+
+
+        6. The integration of generative artificial intelligence in the design thinking process increases openness to technological advancements
+
+
+        7. The integration of generative artificial intelligence in the design thinking process decreases ethical issues
+
+
+
+Generative AI in Design Thinking                                                                                                                                                            19
+   Methodology Overview
+   A mixed methods approach with five steps that incorporates experimental procedures, quantitative and qualitative analysis, and pre and post test assessments to
+   evaluate the role of generative artificial intelligence.
+
+
+
+
+                      1                                2                                    3                                    4                                   5
+
+               Pre-Test                     Experiment – Design                       Post-Test                           Quantitative                          Qualitative
+             Questionnaire                    Thinking Session                      Questionnaire                          Analysis                              Analysis
+
+
+
+                                           Design Thinking session with
+        Gather initial data and initial                                         Gather final data and final                                              Comparison between the in-
+                                           three exercises to assess the                                            Statistical analysis comparing
+         participants perceptions                                              participants perceptions after                                             session participants votes
+                                               influence of artificial                                              pre-test and post-test results
+          before the experiment                                                       the experiment.                                                     and their leadership votes
+                                              generative intelligence
+
+
+
+
+   With this, we facilitated a robust integration of generative artificial intelligence into a human centered approach and its influence on participants creative confidence, openness to
+   technological advancements and ethical considerations.
+
+
+
+Generative AI in Design Thinking                                                                                                                                                            20
+   Methodology                                      (Pre and Post Test Questionnaires)
+
+   Structure                                                           Pre-Test Questionnaire                                                                   Post-Test Questionnaire
+
+   Purpose                         Assess initial perceptions of generative AI’s impact on the design thinking process.                   Evaluate shifts in perceptions post-experiment.
+
+
+   Primary Information             Familiarity with design thinking and generative AI usage frequency.                                    —
+
+
+
+                                   Views on generative AI in design thinking (e.g., trend identification, bias concerns, human vs. AI
+   Overall Perceptions                                                                                                                    Same items, re-measured
+                                   feedback, innovation).
+
+
+
+
+                                   Inspiration: confidence in trend identification, openness to tech, ethical concerns, AI’s usefulness
+                                   in trend analysis. Ideation: confidence in idea generation, openness to tech, ethical concerns, AI’s
+   Design Thinking Phases                                                                                                                 Same items, re-measured
+                                   usefulness in brainstorming. Implementation: confidence in providing feedback, openness to
+                                   tech, ethical concerns, AI in feedback processes.
+
+
+
+
+   Demographics                    Age, gender, education, and professional role to provide context for responses.                        —
+
+
+
+   Response Format                 Likert scale (1-7) for level of agreement.                                                             Same scale
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                                            21
+   Methodology (Experiment)
+
+
+
+
+                         Participants were divided into small groups, each with different specifications to test generative AI’s role in the design thinking process:
+
+
+                                                                                                                                                           “Non-expert with Chat GPT in back
+       “Humans”                                        “AI Enhanced”                                      “AI Free Access”
+                                                                                                                                                           office”
+
+                                                       they were obligated to use generative artificial   it was up to the group to decide whether to      conducted entirely in the back office by the
+       could only use their own mental capacities to
+                                                       intelligence but only after carrying out the       use generative artificial intelligence and how   researcher, where all inputs originated solely
+       respond to the exercise.
+                                                       exercise with their mental abilities.              to utilize the resource.                         from Chat GPT.
+
+
+
+Generative AI in Design Thinking                                                                                                                                                                            22
+   Methodology (Experiment)
+   The session encompassed three key exercises corresponding to the different phases of design thinking:
+
+
+
+                               INSPIRATION
+                                                           Each small group was asked to identify trends that they believed would impact their challenge in the future, creating
+                                                           spaces of opportunity for value creation. After each small group discussion, each group submitted an identified
+                               1. Identifying Trends       opportunity space in a brief and simple sentence.
+
+
+
+
+                               IDEATION
+                                                           In small groups, participants generated ideas that responded to the most voted opportunity space from the previous
+                                                           exercise. Each group then selected one idea they considered to have the greatest potential for implementation and
+                               2. Brainstorming            value creation and submitted it in a brief sentence.
+
+
+
+
+                               IMPLEMENTATION
+
+                                                           Each small group presented their final idea in a three minute pitch. The remaining groups provided feedback with one
+                               3. Feedback                 positive point and one point for improvement. Each group then selected the feedback received they found most useful.
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                                   23
+   Methodology (Experiment)
+
+                           Voting Process                                                             Company Selection Rationale
+
+
+
+         • After each 30-minute exercise, each small group submitted their results.
+                                                                                           Expertise in blending AI with human skills and CX analytics.
+
+         • Participants then voted individually on the best output, excluding their own
+         group's submission. This voting approach reflects the "wisdom of the crowd"
+         concept, where collective group decisions are often more accurate than those of
+         individual experts (Surowiecki, 2005).
+                                                                                           Emphasis on user-centric innovation aligns with design thinking principles.
+         • In addition, leadership present in the session also voted on the best outputs
+         from all groups despite not having carried out the exercises. Leaders voted
+         without knowing which group produced each output, allowing for an unbiased
+         comparison between participant (wisdom of the crowd) votes and leadership
+         decisions.                                                                        Diverse participant selection from different departments fosters innovation
+                                                                                           through varied perspectives (Thoring et al., 2014).
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                         24
+   Methodology (Quantitative Analysis)
+
+                              Quantitative Analysis
+                              The quantitative analysis aims to statistically assess changes in participants’ perceptions of generative AI in design thinking—measuring creative
+                              confidence, openness to technology, ethical considerations, and overall views on AI integration before and after the experiment.
+
+
+
+
+                                       Tests of                                           Paired Sample                                            Correlation
+                                      Normality                                               T Tests                                               Analysis
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                                   25
+   Methodology (Qualitative Analysis)
+
+                              Qualitative Analysis
+                              The qualitative analysis of this study aims to compare leadership votes with the wisdom of the crowd votes to assess how generative AI influences
+                              the design thinking process and fosters inclusive, innovation-driven decision-making in a corporate context.
+
+
+
+
+                                            Wisdom of the                                                                       Leadership
+                                            Crowd Choices                                     VS                                  Choices
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                                  26
+   Results                             (Quantitative – Pre and Post Test Questionnaire Results)
+
+
+                 Tests of Normality — passed
+
+
+   Phase                                Variable                                                                 Results
+
+   Inspiration                          Creative Confidence                                                  ▲   Significant increase
+
+
+                                        Openness to Technological Advancements                               —   No change, but initial level high
+
+
+                                        Ethical Considerations & Overall Perceptions                         —   Stable, no significant changes
+
+
+   Ideation                             Creative Confidence                                                  ▲   Significant increase
+
+
+                                        Openness to Technological Advancements                               —   No change, initial level high
+
+
+                                        Ethical Considerations                                               —   Stable, no significant changes
+
+
+   Implementation                       Openness to Technological Advancements                               ▲   Significant increase
+
+
+                                        Creative Confidence & Overall Perceptions                            —   Stable, slight increase but not significant
+
+
+                                        Ethical Considerations                                               —   No significant changes
+
+   Overall Perceptions of DT with AI
+   Integration
+                                        AI for Identifying Trends                                            ▲   Significant increase
+
+
+                                        AI Influencing Solutions, Providing Feedback, Enhancing Innovation   —   Stable, initial perceptions high
+
+
+Generative AI in Design Thinking                                                                                                                               27
+   Results                                 (Quantitative – Pre and Post Test Questionnaire Results)
+
+
+
+                      Correlation Analysis
+
+
+
+
+   No statistically significant correlations were found between the belief that generative AI enhances innovation and:
+
+
+
+        —                                               —                                      —                                   —
+
+                                                        Belief in Design Thinking’s
+        Familiarity with Design Thinking                suitability for addressing corporate   Regularity of using generative AI   Familiarity with generative AI
+                                                        innovation problems
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                    28
+   Results                                (Qualitative – Experiment: Design Thinking Session)
+
+   The experiment insights taken from the results are the following:
+
+
+
+
+                                                                    "Non Expert with ChatGPT alone in Back Office"
+        "AI Free Access" group won in both crowd and
+                                                                    group won in crowd evaluation, while "AI Free          Mixed results across feedback groups
+        leadership evaluations.
+                                                                    Access" was preferred by leadership.
+
+
+
+        Suggests that unrestricted AI use enhances creativity       Indicates that AI can independently generate viable    Highlights the effectiveness of integrating AI feedback
+        and divergent thinking.                                     ideas and, supports diverse and innovative ideation.   with human insights to refine and implement ideas.
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                                     29
+   Discussion
+
+
+                            Inspiration and Ideation Phases                                                   Implementation Phase
+
+
+                                                                                              AI integration increases openness to technological advancements when
+         Generative AI significantly boosts creative confidence, supporting higher rates of
+                                                                                              participants see tangible benefits and receive useful feedback. Effective
+         innovation and idea generation. Participants feel more capable and empowered
+                                                                                              integration requires a balance of human insights and AI capabilities, fostering
+         with AI assistance, enhancing creativity in these phases.
+                                                                                              innovation.
+
+
+
+
+                            Human-AI Collaboration                                                            Initial Positive Views on AI
+
+
+
+         Combining generative AI with human expertise yields superior results across
+                                                                                              Observed changes post-experiment are limited by participants’ already high
+         various disciplines. Future success in professional fields depends on merging
+                                                                                              regard for AI’s role in design thinking.
+         human creativity with AI’s computational strengths.
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                                30
+   Conclusions
+         RESEARCH QUESTION
+
+
+         How does the integration of generative artificial intelligence affect the traditional stages of the design thinking process, including inspiration, ideation, and
+         implementation, within corporate environments?
+
+
+
+         Generative AI greatly improves the traditional phases of the design thinking process. It increases creative confidence during the inspiration phase, enhances idea generation during the ideation
+         phase, and improves receptivity to technological advancements during the implementation phase. Generative AI boosts creative confidence, helps in trend identification, encourages idea
+         generation, and improves feedback receptivity, although it does not significantly affect ethical considerations.
+
+
+
+
+         RESEARCH QUESTION
+
+
+
+         What distinctive contribution does generative artificial intelligence bring to the specific stages of a design thinking process?
+
+
+
+
+         In the inspiration phase, generative AI helps identify future needs; in the ideation phase, it stimulates a broad range of novel ideas; and in the implementation phase, it facilitates the exchange
+         of feedback. There are the unique contributions of generative AI to each phase. At every stage of the design thinking process, generative AI provides distinctive advantages that promote
+         innovation.
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                                                                31
+   Conclusions
+      #        Research Assumptions                                                                                                   Conclusions
+
+                                                                                                                                      This was partially confirmed. Generative AI significantly increased creative confidence in the inspiration and
+      1        Generative artificial intelligence enhances the overall design thinking process
+                                                                                                                                      ideation phases.
+
+
+               The integration of generative artificial intelligence in the design thinking process enhances the output of the
+      2                                                                                                                               Confirmed. Participants showed a significant increase in creative confidence during the inspiration phase.
+               inspiration phase
+
+               The integration of generative artificial intelligence in the design thinking process enhances the output of the
+      3        ideation phase
+                                                                                                                                      Confirmed. There was a significant improvement in the generation of novel ideas.
+
+
+
+               The integration of generative artificial intelligence in the design thinking process enhances the output of the        Partially confirmed. While there was increased openess to technological advancements, the impact on ethical
+      4
+               implementation phase                                                                                                   considerations and the overall perception of generative AI feedback was not significant.
+
+
+               The integration of generative artificial intelligence in the design thinking process increases individuals’ creative
+      5                                                                                                                               Confirmed in the inspiration and ideation phases but not significantly in the implementation phase.
+               confidence
+
+               The integration of generative artificial intelligence in the design thinking process increases openness to
+      6                                                                                                                               Partially confirmed. Confirmed in the implementation phase.
+               technological advancements
+
+
+      7        The integration of generative artificial intelligence in the design thinking process decreases ethical issues          Not confirmed. There was no significant change in ethical considerations.
+
+
+
+
+          • Integrating generative AI as a tool in the design thinking process is an improvement, especially during the inspiration and ideation phases.
+          • Generative AI significantly boosts creative confidence and facilitates the generation of novel ideas, while having little effect on ethical issues.
+          • Generative AI successfully encourages receptivity to technological advancements when they are being implemented.
+          • The collaboration between humans and generative AI shows how important is to integrate generative AI to foster an innovative culture in corporate settings.
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                                                                                                       32
+   Future Research
+
+         Study Limitations
+                                                                                                           Future Research Directions
+              Sample size
+
+                                                                                               Investigate AI’s integration across various industries for specialized
+              Single Company Data
+                                                                                               insights.
+
+              Selection Bias
+                                                                                               Conduct longitudinal studies to observe AI’s influence on design thinking
+                                                                                               over time.
+              Self-Reported Data
+
+
+
+              Qualitative Analysis: Lacks detailed methodology for comparing leader and        Explore ethical implications and develop strategies to address them.
+              group decisions, affecting rigor (Yin, 2015).
+
+
+
+              Chat GPT Prompts: Created by principal investigator, leading to variability in   Use larger, more diverse samples to enhance universality of findings.
+              prompt creation, which may affect consistency.
+
+
+
+
+Generative AI in Design Thinking                                                                                                                                           33
+
