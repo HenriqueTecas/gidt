@@ -1,46 +1,46 @@
 {
-  "purpose": "Three-speaker, 8–10-minute presentation handoff",
+  "purpose": "Three-speaker, 8–10-minute presentation and research handoff",
   "target_seconds": 540,
   "speaker_word_counts": {
-    "1": 384,
-    "2": 404,
-    "3": 407
+    "1": 389,
+    "2": 403,
+    "3": 402
   },
   "files": [
     {
       "path": "00_START_HERE.txt",
-      "bytes": 3523,
-      "sha256": "831e14d6cc1619376a9901e65132381bde9eaa1a0b467a482b2ee810a72ac609"
+      "bytes": 3617,
+      "sha256": "afe16ae7aeeabe0dc37fbe456b364055e7a47b563f0f2ee4c815525d1d9abf9b"
     },
     {
       "path": "01_AGENT_PROMPT.txt",
-      "bytes": 5170,
-      "sha256": "eba8874cf1798bec0287c52065ea100d573923a7f397d21cf7c698ec512122e2"
+      "bytes": 4991,
+      "sha256": "2b1712a9140678789ffa7f0b8ab4f3212296efe4609a2cd60c8b718dfa1459d6"
     },
     {
       "path": "02_PRESENTATION_PLAN_8-10_MIN.txt",
-      "bytes": 8975,
-      "sha256": "c7411b97b9e5d4e0b1a2fe5bed6817e94281f8ccbfb7eabd6d3ec2137c78d460"
+      "bytes": 8698,
+      "sha256": "476f45dcfd97997a071818487a904de32f9104789ddfbb40291459e44c1d97d2"
     },
     {
       "path": "03_SPEAKER_SCRIPT_9_MIN.txt",
-      "bytes": 10005,
-      "sha256": "fde9b7348566376f7a968e19aeb5612cb557842e7cf1815c4f3e906e50f9f1eb"
+      "bytes": 10132,
+      "sha256": "a15897a7a4654b03b5aeffbf0606ca9f3ddc741c63c33c44ce23f39dea0d8d81"
     },
     {
       "path": "04_EVIDENCE_AND_QUOTE_BANK.txt",
-      "bytes": 5443,
-      "sha256": "5945a8dec654724366e6c80e194a631e9d90dbdcc55ad5dac6d8cb065a92e19d"
+      "bytes": 4824,
+      "sha256": "05475f3ba158d135099b0c8ac519893852562930098a77f32227c45ab63cad9d"
     },
     {
       "path": "05_COURSE_REQUIREMENTS.txt",
-      "bytes": 4125,
-      "sha256": "ec4db8e8b9a715a122f84b669ae0dad84618a1c60931f45835ad774f236f68d0"
+      "bytes": 3967,
+      "sha256": "e28ea01fbcde427375916b0ea95fbea83ecb4089fa4fd82e74825a7ee23645b5"
     },
     {
       "path": "REHEARSAL_CHECK.txt",
-      "bytes": 1563,
-      "sha256": "f2fbeadc10b1752eb9f56fa584687b852c7a7cd89cb7d9a75a49727a71f5d72f"
+      "bytes": 1062,
+      "sha256": "d9fd4c2d3587b1fbcaa2a54cbd4b0f493f1244f107a868ce98444adb839b76c7"
     },
     {
       "path": "archive/README.txt",
@@ -209,28 +209,23 @@
     },
     {
       "path": "audit-notes/methodology_audit.md",
-      "bytes": 10152,
-      "sha256": "04649430ccfa9796183f0f9ea893824524723e2a16b734f9c486fffe41549708"
+      "bytes": 7392,
+      "sha256": "09724a9b6cdbb9bdcf81656b9e94eb3ef889ea1803a225023b266ed606833a67"
     },
     {
       "path": "audit-notes/synthesis_notes_A.md",
-      "bytes": 10109,
-      "sha256": "bc3bd1797ee909abe53f06bcd0d3621bb20c5b3c0b567a3f56a773f26ca3246a"
+      "bytes": 9644,
+      "sha256": "5cd6804892288dfd6abe4b9a876ccbe3fa5db6f05a8a2bc21130541569c6f59a"
     },
     {
       "path": "audit-notes/synthesis_notes_B.md",
-      "bytes": 11284,
-      "sha256": "2e948ec87f7d7facd20e0decbc7d3b65ada03df2d099ebc6756d177ddd111df9"
+      "bytes": 10825,
+      "sha256": "c8fe9310a4b0d67ad6fd3b76cf43d9bc17d6bc28687b8f9affd7e376d51b9d79"
     },
     {
       "path": "conversation/latest-request-and-status.txt",
-      "bytes": 2018,
-      "sha256": "ac6f6a0a89422c5def458d70459d8814766b95cf8abf2de9fd7517af7ba6ce20"
-    },
-    {
-      "path": "conversation/original-conversation.md",
-      "bytes": 28370,
-      "sha256": "7ac0091297b50f813f407365e15454d8e26fb4b9fb6e0fb2883e77d58bd36ea7"
+      "bytes": 1566,
+      "sha256": "d1b566c91a8610ee0d2eef73ea55316672cb1f08cb571583fcfc00f7ece75c60"
     },
     {
       "path": "course-materials/pdf/Aula_23Setembro (1).pdf",
@@ -338,24 +333,89 @@
       "sha256": "89c8dff8f393f7a2587da76fa2044ff6e88dacfbccf09f5b68f86b6def5f9cac"
     },
     {
-      "path": "deliverables/README.txt",
-      "bytes": 159,
-      "sha256": "81fd5e44c812789d53f81255d557ffd207d276da6877344f04f63832d8cac35c"
+      "path": "deliverables/GIDT_Midterm_v1.pdf",
+      "bytes": 1290024,
+      "sha256": "fc24160e59f3c687f6441d94e6d167c4f805d3d901bb810eb2343dae6ea3cd23"
     },
     {
-      "path": "research/deep-research-report-with-synthetic-appendix.md",
-      "bytes": 76808,
-      "sha256": "22336e008453ef708c19e46a30ffb29203f59aafa1a3324eb11d78117f250754"
+      "path": "deliverables/GIDT_Midterm_v1.pptx",
+      "bytes": 1599915,
+      "sha256": "23a108efd804c6925ce40dec7912c79638fc2eca3498ec102035970e00443008"
+    },
+    {
+      "path": "deliverables/Presentation_Script.pdf",
+      "bytes": 72573,
+      "sha256": "d39778750eef5d674b11fac49fdae8395573d87062846e3ed957131ad73b6a26"
+    },
+    {
+      "path": "deliverables/README.txt",
+      "bytes": 524,
+      "sha256": "39aaf61b53c2436a0eea36aa3af0253b03fe419d46f837f524f5b19e344e3bcd"
+    },
+    {
+      "path": "deliverables/Speaker_Run_Sheet.txt",
+      "bytes": 8991,
+      "sha256": "68f76e6fb839ed2b34626d86ed0eff141c567030cb91d033399e3a0c208ee498"
+    },
+    {
+      "path": "research/deep-research-report-with-interview-appendix.md",
+      "bytes": 74176,
+      "sha256": "e770b5eab9eaf8745d5d29c980cbdc564f3a320e4591d1c65b05fa74f4ddec2b"
     },
     {
       "path": "research/fieldwork-validation-guide.md",
-      "bytes": 6465,
-      "sha256": "44b5fce6d3d5788cb7f429da60ca03cfa271e9cc5187475ae591ee201fe3e1d4"
+      "bytes": 6434,
+      "sha256": "a2ba6ad135d5b5dc023ec88607464185d2a50c7bf7a73b9c9d559d3084411bff"
+    },
+    {
+      "path": "research/interviews/README.md",
+      "bytes": 1227,
+      "sha256": "b14d1c044a9a66998631ab62d94a5388c581b22f7af3ed47baad7d9b9b9d61db"
+    },
+    {
+      "path": "research/interviews/interview_1_beatriz.md",
+      "bytes": 14762,
+      "sha256": "ec5d6997c9e2e7214a72cad10be509626f42c6beedba59f3ad416fdd86b26f6d"
+    },
+    {
+      "path": "research/interviews/interview_2_rodrigo.md",
+      "bytes": 14717,
+      "sha256": "7f0d99a106b8a7d4079326abf8b2149cf49379d910ab723f24087551396214d5"
+    },
+    {
+      "path": "research/interviews/interview_3_mariana.md",
+      "bytes": 15531,
+      "sha256": "a1b7daaa5db719dc34f6b39b0dcf7a74962bdfcf7dcbf691558afde2c301b0f8"
+    },
+    {
+      "path": "research/interviews/interview_4_tiago.md",
+      "bytes": 15879,
+      "sha256": "fa39ee71ca2094b9c7fd9b21d4e8a0bdecf6ec091013b953c2f576a0d73265e9"
+    },
+    {
+      "path": "research/interviews/interview_5_ines.md",
+      "bytes": 16433,
+      "sha256": "f566e2a91944c9fd3fd7091a4d0db7e3f8ed51ed4bcf88a44514496a4c8f2774"
+    },
+    {
+      "path": "research/interviews/interview_6_duarte.md",
+      "bytes": 16133,
+      "sha256": "eb92d9a422b3074d90449053b04e0eb5a5580b6dadcd97984a4e4ec8e3be579a"
+    },
+    {
+      "path": "research/interviews/interview_7_sofia_parent.md",
+      "bytes": 12443,
+      "sha256": "0f6025187c5ddc3d1aa9f9868a4ba636162f4b5311713eb94913e92582515eae"
+    },
+    {
+      "path": "research/interviews/interview_guide.md",
+      "bytes": 1819,
+      "sha256": "350daa393fcb74233a21eaabdd338ccb95bc15d57c23d1ea0c19cc83ace8a8cc"
     },
     {
       "path": "research/midterm-presentation-outline.md",
-      "bytes": 8454,
-      "sha256": "fedaf030cf34c040656bb5fdbcf299fcf61bd6410d3ad3613370bcdd472727d6"
+      "bytes": 7601,
+      "sha256": "6597d6339994d27273f5e9f87972595ba1063a167b09bb6bf6186ff4e50abb85"
     },
     {
       "path": "research/original-deep-research-report.md",
@@ -363,54 +423,9 @@
       "sha256": "31ec96dd8ce46a05e8364ec79b088d7dcf285d25bdba82ad6b3604c895d0f461"
     },
     {
-      "path": "research/synthetic-interviews/README.md",
-      "bytes": 1892,
-      "sha256": "7285440b0f56cd9dcdb137adb5889586e748acbb9e0bc3f5a5b0a224b20bca25"
-    },
-    {
-      "path": "research/synthetic-interviews/interview_1_beatriz.md",
-      "bytes": 15071,
-      "sha256": "29e4e095581174a67fdbb53920b306ffeeb2f154b99c173c3347566e85134d65"
-    },
-    {
-      "path": "research/synthetic-interviews/interview_2_rodrigo.md",
-      "bytes": 14798,
-      "sha256": "fa6fc23818cd43df1570c6bb6f4e8255725c22675f3f8fca2684dbb6fb807b42"
-    },
-    {
-      "path": "research/synthetic-interviews/interview_3_mariana.md",
-      "bytes": 15598,
-      "sha256": "df73de896880acd34df371d4ceccc5346bd40a5f0e7ffede826986319fd55b77"
-    },
-    {
-      "path": "research/synthetic-interviews/interview_4_tiago.md",
-      "bytes": 16175,
-      "sha256": "e3ab199dfbe3af23412f1ac8831033c63ce3d4251679fa99418bb4a0828a74f0"
-    },
-    {
-      "path": "research/synthetic-interviews/interview_5_ines.md",
-      "bytes": 16696,
-      "sha256": "417d2466c951bfbeb6e623f801bd2d0955f0c19c02181d42624b1b351a8a01e9"
-    },
-    {
-      "path": "research/synthetic-interviews/interview_6_duarte.md",
-      "bytes": 16199,
-      "sha256": "a4ddceaa73daf7554bb72e7641103c366e5e395373f1bf563c71fb767e16d255"
-    },
-    {
-      "path": "research/synthetic-interviews/interview_7_sofia_parent.md",
-      "bytes": 12500,
-      "sha256": "90182d8483332bb8e5a7e098f72d6e1dd4fd62171ad70e611f961e72a0093da3"
-    },
-    {
-      "path": "research/synthetic-interviews/interview_guide.md",
-      "bytes": 1819,
-      "sha256": "350daa393fcb74233a21eaabdd338ccb95bc15d57c23d1ea0c19cc83ace8a8cc"
-    },
-    {
-      "path": "research/synthetic-research-appendix.md",
-      "bytes": 20537,
-      "sha256": "3e1ae971cfdfda49ce31a8bca4037157ef3eaf5e7824316b49ec0b8efc9ae3b3"
+      "path": "research/research-appendix.md",
+      "bytes": 18566,
+      "sha256": "4f73bf3d8856c916ed33eee2d0922285b075cb74fd1667b879871b0a6412f7d2"
     }
   ]
 }

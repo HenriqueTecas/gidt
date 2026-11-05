@@ -1,0 +1,93 @@
+GIDT MID-TERM — FULL SPEAKING SCRIPT
+English delivery; approximately nine minutes, plus Q&A
+Read the paragraphs aloud. Names, slide labels, timings and bracketed cues are rehearsal guidance.
+
+JOÃO ROCHA — Slides 1–3, approximately 0:00–3:00
+
+SLIDE 01 — Teenagers shaping their school journeys
+Target 0:00–0:40
+
+Good morning. We're João Rocha, Henrique Rodrigues and Rodrigo Branco. Our challenge is: how can we encourage young people aged fourteen to eighteen to participate and intervene in urban mobility solutions? We are looking at how teenagers can influence decisions about journeys they make every day. They may know where a crossing feels difficult, where a connection fails, or which route works better. The question is how that knowledge can become part of a decision. Today, we will explain our current approach, the questions raised by our material, and how we have narrowed the problem for further research.
+
+SLIDE 02 — Participation in everyday school journeys
+Target 0:40–1:40
+
+The topic remains the one set by the course. Reframing means choosing a more specific part of it to investigate. Our working focus is teenagers' journeys to a Lisbon school. That includes the route near home, transport connections and the area outside school, because a difficulty can occur anywhere along that journey. We have not selected a particular school yet.
+
+In the Double Diamond, we are working in Discover and Define. We want to understand possible barriers, then turn that understanding into a useful problem statement. We are also separating two questions: wanting a journey to improve, and wanting to spend time influencing that improvement. Someone may strongly want a reliable service while having little interest or capacity to join a project. That distinction shapes the rest of our work.
+
+SLIDE 03 — Seven interviews across different travel situations
+Target 1:40–3:00
+
+Our research combines desk research with seven semi-structured interviews: six teenagers and one parent. We explored everyday journeys, workarounds, family rules and previous experiences of trying to influence decisions about streets or transport.
+
+The participants differ in travel habits, civic involvement, parental dependence and accessibility needs. We grouped their accounts into themes, separated what each participant said from our interpretation, and looked for contradictions. We then connected the themes to insights and How Might We questions.
+
+We also distinguished accounts of existing behaviour from reactions to possible projects. For example, the guide introduced a budget and a team challenge with friends. Those answers help us discuss concepts, while the journey stories reveal constraints people already face. Our revised guide keeps these two kinds of question separate.
+
+For the presentation, we selected short quotations that show contrasting barriers and checked them against the full dialogue. With that context, Henrique will explain the tensions we found in the interviews and why they matter.
+
+[Pause. Henrique Rodrigues starts slide 4.]
+
+HENRIQUE RODRIGUES — Slides 4–6, approximately 3:00–6:00
+
+SLIDE 04 — Different journeys, different constraints
+Target 3:00–3:45
+
+The participants' different journeys make those tensions concrete. Beatriz is already involved in student activities, but exams compete for her time. Tiago has a long commute and weekend work, so staying after school is difficult. Inês uses a wheelchair and needs both the journey and the activity itself to be accessible.
+
+Other interviews cover being driven by parents, informal peer groups and video-making skills. Sofia adds a parent's perspective on permission and household logistics. Comparing these accounts helps us separate barriers that might otherwise look like the same lack of interest. A suitable opportunity for one participant could still exclude another because of its timing, location or demands.
+
+SLIDE 05 — Interest can coexist with barriers
+Target 3:45–5:05
+
+Three excerpts show why we should separate interest from participation. One interviewee, Rodrigo, says, “I don't know how to make a proposal.” He already exchanges travel information and shares videos with friends. The question is whether someone can have useful knowledge while feeling unqualified to contribute through a formal process.
+
+Tiago says, “Not like I don't want to, I can't.” His account raises a different issue: a project may sound worthwhile but still be impossible to fit around travel and work. Making the activity more appealing would not necessarily create extra time.
+
+Duarte says, “If it's just for fun, I'd say yes and then not go.” That reminds us to distinguish enthusiasm in a conversation from actual attendance. Friends, school commitments and recognition could all affect the decision.
+
+Accessibility adds another practical layer. Inês questions an activity that requires reaching places she cannot access. Before interpreting a lack of participation as a lack of interest, we need to check whether the person can realistically take part. These accounts give us distinct requirements to consider when developing possible responses.
+
+SLIDE 06 — Counterexamples within the interviews
+Target 5:05–6:00
+
+We also kept details that challenge an easy conclusion. Beatriz prefers the idea of a team challenge, but recognises that a council might have more power. Sofia, the parent, describes a local report that actually led to a repair. Her experience shows that a reachable contact and a visible result can make a difference.
+
+Mariana wants the option of travelling independently, but is unsure she would choose it every day. Tiago mainly wants his bus to work. Wanting an improvement does not mean wanting an additional responsibility.
+
+These qualifications stop us from assuming that one format or one motivation explains everyone. Rodrigo will now connect these tensions to our insights and the problem we want to investigate.
+
+[Pause. Rodrigo Branco starts slide 7.]
+
+RODRIGO BRANCO — Slides 7–10, approximately 6:00–9:00
+
+SLIDE 07 — Four barriers shape participation
+Target 6:00–7:00
+
+Those tensions lead to four insights. First, credibility: someone may withhold effort if they cannot tell who will consider their contribution or what happens afterwards. Second, capacity: caring about a problem does not remove the demands of study, work, travel or accessibility.
+
+Third, confidence: a teenager may understand a journey very well but feel that formal participation requires skills they do not have. Fourth, permission: some teenagers depend on adults' confidence in the journey and on practical support to attend.
+
+The interviews show how these barriers can overlap. Rodrigo's practical knowledge does not give him confidence in writing a proposal. Tiago's interest does not create time after school. This means our next phase should compare responses to different barriers, and check who each response enables to contribute.
+
+SLIDE 08 — Our reframed problem
+Target 7:00–7:45
+
+Our working point of view brings together the user, the need and the possible explanation. We are focusing on teenagers aged fourteen to eighteen who notice problems on school journeys but seldom use formal participation channels. Their need is to contribute to decisions in ways they can access and understand.
+
+The explanation is that useful knowledge can coexist with doubts about influence and limits on time, access or permission. This narrows the original challenge while leaving several solutions possible. It does not assume we need an app, a competition or a workshop. Follow-up research will help us refine the focus as we develop possible responses.
+
+SLIDE 09 — Questions for the next phase
+Target 7:45–8:30
+
+Our primary question is: how might we help teenagers see how their contributions influence decisions about their school journeys? It focuses on the relationship between contributing and having an effect.
+
+Three supporting questions address the other explanations: how could teenagers with limited time or difficult journeys contribute; how could they express everyday travel knowledge confidently; and how could those depending on adult support take part?
+
+We have prioritised influence as a direction to investigate, rather than as a proven main barrier. These questions remain open enough for different responses. They also give us something concrete to revise as follow-up evidence reveals further needs.
+
+SLIDE 10 — Which barrier should we address first?
+Target 8:30–9:00
+
+Next, we will use the interview findings to compare possible responses with participants and check what schools and responsible authorities can support. We will examine timing, accessibility, ways to contribute and ownership of decisions. Follow-up feedback will help us refine the problem statement. Our question for discussion is: which barrier should we address first, and what would a credible opportunity to influence a school journey look like?

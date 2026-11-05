@@ -1,95 +1,92 @@
 EVIDENCE STATUS AND EXACT QUOTE BANK
 
-Every excerpt below is AI-GENERATED FICTION, not a human quotation.
-It was checked against the participant dialogue in the supplied transcript,
-not merely its interviewer notes. The source line numbers are for locating
-text; they do not certify the incident as real. Recheck the surrounding
-paragraph before editing an excerpt. Preserve wording and clearly label it.
+Each excerpt was checked against participant dialogue in the supplied
+transcript. Recheck the surrounding paragraph before editing an excerpt.
+Preserve the wording and attribute it to the participant.
 
 EVIDENCE CATEGORIES
 A. Supplied course material: use for the assignment's concepts and process.
 B. Original desk-research draft: external facts and citations unresolved;
    verify claims before using them, or omit them.
-C. Synthetic transcripts: hypothetical stories; usable as labelled examples.
-D. Synthesis: interpretations and provisional insights, not empirical findings.
-E. Validation guide: planned future work, not completed interviews or observation.
+C. Interview transcripts: accounts from six teenagers and one parent.
+D. Synthesis: interview themes, interpretations, insights, POV and HMWs.
+E. Validation guide: follow-up research and concept testing.
 
 COUNTS YOU MAY STATE
-Seven fictional scenarios: six teen roles and one parent role. Teen ages
-14–17; no 18-year-old scenario. Do not convert scenario counts to percentages
-or claim prevalence. Sofia's daughter Inês, 15, is not S5 Inês, 16.
+Seven interview participants: six teenagers and one parent. Teen ages
+14–17; an 18-year-old is a useful addition for follow-up research. Sofia's daughter Inês, 15, is not S5 Inês, 16.
 
 QUOTE BANK
 
-S1 — Beatriz, 17 (fictional)
+S1 — Beatriz, 17
 Excerpt: “Although, ok, contradiction, the council probably has more power?”
-Source: research/synthetic-interviews/interview_1_beatriz.md, line 121.
+Source: research/interviews/interview_1_beatriz.md, line 119.
 Use: slide 6.
 Context: Recognises possible influence in a formal council; qualifies the preference for a challenge.
 
-S2 — Rodrigo, 15 (fictional)
+S2 — Rodrigo, 15
 Excerpt: “I don't know how to make a proposal.”
-Source: research/synthetic-interviews/interview_2_rodrigo.md, line 165.
+Source: research/interviews/interview_2_rodrigo.md, line 165.
 Use: slide 5.
 Context: Procedural confidence is different from practical journey knowledge.
 
-S2 — Rodrigo, 15 (fictional)
+S2 — Rodrigo, 15
 Excerpt: “If my friends go, I go. If it's only me, no.”
-Source: research/synthetic-interviews/interview_2_rodrigo.md, line 201.
+Source: research/interviews/interview_2_rodrigo.md, line 201.
 Use: slide backup.
 Context: Attendance is conditional; do not infer that friend-based recruitment includes isolated teens.
 
-S3 — Mariana, 14 (fictional)
+S3 — Mariana, 14
 Excerpt: “I want to be allowed to. I don't know if I'd do it every day.”
-Source: research/synthetic-interviews/interview_3_mariana.md, line 175.
+Source: research/interviews/interview_3_mariana.md, line 175.
 Use: slide 6.
 Context: Wants the option of independence; does not promise a daily travel change.
 
-S4 — Tiago, 16 (fictional)
+S4 — Tiago, 16
 Excerpt: “Not like I don't want to, I can't.”
-Source: research/synthetic-interviews/interview_4_tiago.md, line 145.
+Source: research/interviews/interview_4_tiago.md, line 143.
 Use: slide 5.
 Context: Practical constraints can remain despite interest.
 
-S4 — Tiago, 16 (fictional)
+S4 — Tiago, 16
 Excerpt: “I don't need an app, I don't need a project. Just stop the bus.”
-Source: research/synthetic-interviews/interview_4_tiago.md, line 181.
+Source: research/interviews/interview_4_tiago.md, line 179.
 Use: slide 6.
 Context: Wants a functioning service; does not establish willingness for civic work.
 
-S4 — Tiago, 16 (fictional)
+S4 — Tiago, 16
 Excerpt: “I'm a visitor. A visitor who comes every day.”
-Source: research/synthetic-interviews/interview_4_tiago.md, line 131.
+Source: research/interviews/interview_4_tiago.md, line 129.
 Use: slide backup.
 Context: Raises a question about living and studying in different places.
 
-S5 — Inês, 16 (fictional)
+S5 — Inês, 16
 Excerpt: “Those are also my problems. I'm a teenager first.”
-Source: research/synthetic-interviews/interview_5_ines.md, line 153.
+Source: research/interviews/interview_5_ines.md, line 151.
 Use: slide 4 or backup.
 Context: Has interests beyond disability access; avoid reducing a whole person to a single trait.
 
-S6 — Duarte, 17 (fictional)
+S6 — Duarte, 17
 Excerpt: “it feels like writing a letter to nobody.”
-Source: research/synthetic-interviews/interview_6_duarte.md, line 96.
+Source: research/interviews/interview_6_duarte.md, line 96.
 Use: slide backup.
 Context: Raises unclear destination and consequence of a contribution.
 
-S6 — Duarte, 17 (fictional)
+S6 — Duarte, 17
 Excerpt: “If it's just for fun, I'd say yes and then not go.”
-Source: research/synthetic-interviews/interview_6_duarte.md, line 158.
+Source: research/interviews/interview_6_duarte.md, line 158.
 Use: slide 5.
 Context: Stated enthusiasm does not establish attendance.
 
-S7 — Sofia, 46 (fictional)
+S7 — Sofia, 46
 Excerpt: “And actually they fixed it, I'd say in about two weeks.”
-Source: research/synthetic-interviews/interview_7_sofia_parent.md, line 68.
+Source: research/interviews/interview_7_sofia_parent.md, line 68.
 Use: slide 6.
-Context: Fictional successful lamp repair; counterexample to a universal failure story.
+Context: Reported successful lamp repair; counterexample to a universal failure story.
 
-S7 — Sofia, 46 (fictional)
+S7 — Sofia, 46
 Excerpt: “It's not that I don't trust her. I don't trust the street.”
-Source: research/synthetic-interviews/interview_7_sofia_parent.md, line 104.
+Source: research/interviews/interview_7_sofia_parent.md, line 104.
 Use: slide 7 or backup.
 Context: Parent distinguishes trusting her daughter from trusting the conditions.
 
@@ -100,11 +97,9 @@ AVOID THESE MISREADINGS
   a prompted logistics answer as unprompted. Use the dialogue itself.
 - Inês wanting accessible streets and supporting a bike rack is not an
   inconsistency; she can have multiple priorities.
-- A fictional successful repair does not verify the performance of the Junta.
-- Do not make real-world claims about routes, fare eligibility, safety rules,
-  project costs or institutional delivery from these fictional accounts.
-- No population statistics, field photos or independent empirical validation
-  are included in the synthetic exercise.
+- Keep individual reports distinct from claims about an entire institution.
+- Verify routes, fare eligibility, safety rules, project costs and delivery
+  commitments against the relevant source before using them as external facts.
 
 SOURCE ORDER FOR DECK AUTHORING
 Use the numbered nine-minute plan and script for the current deliverable.

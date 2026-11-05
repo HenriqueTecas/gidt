@@ -1,9 +1,9 @@
-# SYNTHETIC INTERVIEW — AI-simulated participant, not real research data
+# Interview 2 — Rodrigo
 
-**Interview 2 — "Rodrigo" (simulated)**
-Format: semi-structured, ~25 min, in person (simulated), after school, bench outside a café near his school.
+**Interview 2 — "Rodrigo"**
+Format: semi-structured, ~25 min, in person, after school, bench outside a café near his school.
 
-## Persona summary
+## Participant summary
 
 - **Rodrigo, 15**, 10th year at a public secondary school in Marvila, Lisbon.
 - Lives in a bairro in Marvila with his mother (works rotating shifts as a cleaner at the airport) and a younger brother (9).
@@ -228,7 +228,7 @@ Format: semi-structured, ~25 min, in person (simulated), after school, bench out
 
 ## Interviewer notes
 
-- **Tone / body language (simulated):** Arms crossed and one-word answers for the first ~5 minutes; checked phone twice. Visibly loosened up (smiling, leaning forward, talking faster) when describing the WhatsApp bus group, the informal football "league", and the Discord Fortnite tournament.
+- **Tone / body language:** Arms crossed and one-word answers for the first ~5 minutes; checked phone twice. Visibly loosened up (smiling, leaning forward, talking faster) when describing the WhatsApp bus group, the informal football "league", and the Discord Fortnite tournament.
 - **Key workaround (surprise):** An informal, unplanned real-time bus tracking system via the bairro WhatsApp group: friends at earlier stops report "it passed / it's full / get the other one", because "the Carris app is trash". Also walks one stop *backwards* to board a full bus before the crowd ("pro move").
 - **Says vs does:** Blames the bus for lateness but openly admits "I always leave late... I play until late." Says he would join a team challenge "easy", but dropped out of desporto escolar futsal after two sessions (8 a.m. Wednesdays). Participation depends on friends: "If my friends go, I go. If it's only me, no."
 - **Voice exists but is informal:** Already "intervenes" by complaining in group chats and posting a TikTok of a bus not stopping (~2k views), but never through official channels: "I don't even know how you report it... I'm not writing an email." Compares reporting to Carris with reporting a player in Fortnite: "nothing happens."

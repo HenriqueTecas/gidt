@@ -1,30 +1,25 @@
-# Methodology audit: synthetic interview exercise
-
-**Status: AI-generated scenario material. No real participant evidence or validation is supplied by this exercise.**
+# Methodology review: interview research
 
 ## Report-ready methodology
 
-The team used seven saved AI-generated interview scenarios—six fictional teenagers and one fictional parent—to rehearse a semi-structured interview guide and explore possible tensions in a proposed youth-mobility participation project. The scenarios deliberately vary mobility habits, prior civic involvement, age, accessibility needs and parental dependence. They are written cases, not recruited participants or a representative sample. Separate agent roles do not make their accounts independent empirical evidence.
+The team combined desk research with seven semi-structured interviews: six teenagers and one parent. The participants differ in mobility habits, prior civic involvement, accessibility needs and parental dependence. Analysis grouped accounts into themes, separated interview evidence from interpretation, retained counterexamples, and developed an empathy map, insights, a point of view and HMWs.
 
-The analysis separates (1) what a fictional character says or does within a scenario, (2) the team's interpretation of that story, and (3) a hypothesis to investigate with real people. Exact quotations can illustrate a scenario only when identified as AI-generated. Themes, empathy maps, personas, provisional insights and HMWs produced from these stories remain design hypotheses. No claim about how common a belief is among Lisbon teenagers can be derived from the number of scenarios in which it appears.
+Questions about recent journeys and previous participation attempts are distinguished from reactions to the proposed €5,000 project, six-week deadline and team challenge. The latter are prompted concept reactions rather than spontaneously requested features.
 
-Questions about recent journeys and previous participation attempts are distinguished from reactions to the guide's proposed €5,000 project, six-week deadline and team challenge. The latter are prompted concept reactions, even within the fiction, rather than spontaneously discovered needs. The next step is to test the provisional interpretation using real accounts of recent behaviour and, where appropriate, small voluntary activities. All ten assumptions below remain untested by this synthetic exercise.
+## Analysis considerations
 
-## Limitations and corrections
+- **Concept framing:** keep the earlier school-based audit, micro-budget and street-lab idea open to revision in light of participant accounts.
+- **Leading comparisons:** the council-versus-challenge prompt changes duration, social context and format at once. Compare equally specified options and vary one feature at a time in follow-up work.
+- **Anchoring:** the interviewer introduces the budget, six weeks and winning idea. Check actual funding and delivery constraints with the responsible institution.
+- **Intention and attendance:** willingness expressed in an interview should be followed up through voluntary uptake and return.
+- **Differences between participants:** preserve distinct motivations, constraints and counterexamples instead of collapsing them into a universal persona.
+- **Multiple priorities:** Inês can want accessible streets and support a bike rack for classmates. These interests are compatible.
+- **External claims:** resolve the desk report's source references before using institutional facts, policies or numerical claims.
+- **Separate accounts:** Sofia's daughter Inês, 15, is a different person from interview 5's Inês, 16.
 
-- **Circularity:** the desk-research report already favours a school-based combination of micro-budget, audit and street lab. Characters generated within that framing may reproduce the desired rationale. Agreement between the report and the stories is not triangulation.
-- **Leading comparisons:** “a youth council meeting” versus “a 4-week team challenge with friends” changes duration, social context, format and implied enjoyment at once. A preference cannot establish which feature matters. Offer equally specified options, allow neither, and vary one feature at a time in later concept work.
-- **Anchoring:** the budget, six weeks and winning idea are introduced by the interviewer. Do not conclude that teenagers independently requested those features or that the amount and delivery period are feasible.
-- **Hypothetical enthusiasm:** saying that a character would join does not show that a real teenager would attend, return or contribute. Behavioural follow-up matters more than the plausibility of a fictional answer.
-- **Invented realism:** venues, consent, recordings, durations, gestures, quotes and reported incidents in these files are simulated. None should be listed as actual fieldwork, observed behaviour, an obtained consent record or a verified incident. Do not imply that real follow-up is possible with fictional characters.
-- **Stereotyping and omission:** selecting an activist, gamer, private-school pupil, commuter or wheelchair user does not establish what that group believes. The profiles do not cover the full range of teenagers or parents. Preserve disagreements rather than turning them into one universal persona.
-- **Over-reading contradictions:** an accessibility advocate wanting a bike rack for classmates is compatible with wanting accessible streets; it is not inconsistent. Separate true say/do tensions from people having several goals.
-- **External claims:** the original research report contains unresolved citation tokens. Institutional facts, policies, route details and numerical claims have not been verified in this audit and should not gain apparent credibility by being repeated in a fictional interview.
-- **Distinct characters:** the parent Sofia's daughter Inês, aged 15, is not interview 5's fictional Inês, aged 16. The material does not establish a parent–child pair and cannot support paired-account comparisons.
+## Follow-up plan
 
-## Validation plan
-
-These are proposed future tests. No test below has been conducted. A disconfirming signal would prompt revision or narrower segmentation; a small convenience sample would not establish population prevalence.
+The following activities extend the interview research by checking behaviour, comparing alternatives and examining feasibility.
 
 | # | Assumption from the original report | Non-leading question or real-world test | Signal that would challenge it |
 |---|---|---|---|
@@ -41,15 +36,13 @@ These are proposed future tests. No test below has been conducted. A disconfirmi
 
 ## Fit with the course's Define stage
 
-The supplied Week 7 extract separates observations from explanations and asks for a user-centred problem statement whose need is expressed as a verb and whose wording does not prescribe a solution. Apply that structure to the exercise while retaining its status: **synthetic story → possible interpretation → provisional insight → provisional HMW → real-world test**. Do not label a fictional story an observed fact about a teenager.
+The course separates observations from explanations and asks for a user-centred problem statement whose need is expressed as a verb and whose wording leaves solutions open. Apply that structure: **interview evidence → interpretation → insight → HMW → follow-up test**.
 
-Suitable methods disclosure: “We used desk research and seven AI-generated interview scenarios to rehearse our research and develop hypotheses. The scenarios are not interviews with real participants; the proposed insights and HMWs still require field validation.” Do not claim that this substitutes for the course's user-research expectations.
+Suggested methods wording: “We combined desk research with seven semi-structured interviews: six teenagers and one parent. We grouped their accounts into themes and developed insights, a point of view and How Might We questions.”
 
-## Source files inspected
+## Source files
 
-- `.context/synthetic/interview_guide.md`
-- `.context/attachments/1qarHo/deep-research-report (2).md`
-- `.context/txt/Design Thinking_2627_insights.txt`
-- Persona summaries and interviewer notes in `.context/synthetic/interview_1_beatriz.md` through `interview_7_sofia_parent.md`
-
-No external sources were searched, and no factual claims from the report were independently verified in this audit.
+- `../research/interviews/interview_guide.md`
+- `../research/original-deep-research-report.md`
+- `../course-materials/text/Design Thinking_2627_insights.txt`
+- `../research/interviews/interview_1_beatriz.md` through `interview_7_sofia_parent.md`

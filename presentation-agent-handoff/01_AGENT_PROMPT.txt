@@ -14,19 +14,19 @@ speaking blocks. Speaker 1 owns slides 1–3, Speaker 2 owns slides 4–6, and
 Speaker 3 owns slides 7–10. Handover only after slides 3 and 6, at about
 3:00 and 6:00. Do not introduce a handover on every slide. Follow the full
 script in 03_SPEAKER_SCRIPT_9_MIN.txt, refining wording only if meaning and
-evidence labels are preserved. Keep the two spoken handover lines and the
+source attributions are preserved. Keep the two spoken handover lines and the
 receiving speaker's bridge. Timing is a rehearsal target, not a guarantee.
 
 Read 00_START_HERE.txt and 05_COURSE_REQUIREMENTS.txt before authoring.
 Then use 02_PRESENTATION_PLAN_8-10_MIN.txt for the content sequence and
-04_EVIDENCE_AND_QUOTE_BANK.txt for exact scenario excerpts. The detailed
-reasoning is in research/synthetic-research-appendix.md. The source PDFs
+04_EVIDENCE_AND_QUOTE_BANK.txt for exact interview excerpts. The detailed
+reasoning is in research/research-appendix.md. The source PDFs
 are in course-materials/pdf/ and searchable extracts in course-materials/text/.
 
 COMMUNICATION JOB
-By the end, the audience should understand which explanations for limited
-youth participation deserve testing, how those explanations lead to a
-specific problem statement, and what evidence would change the team's view.
+By the end, the audience should understand what the interviews reveal about
+barriers to youth participation, how those findings lead to a specific
+problem statement, and what evidence would change the team's view.
 
 FIXED CHALLENGE
 “How can we encourage youth (aged 14–18) to participate and intervene in
@@ -39,11 +39,9 @@ The working scope is journeys to a Lisbon school, including connections and
 home-side barriers. No specific school or site has been selected.
 
 EVIDENCE RULES
-The seven transcripts are explicitly AI-generated role-play scenarios, not
-real interviews. Do not call them participants, observed behaviour or
-validated findings. Count them only as six teen scenarios and one parent
-scenario. Label synthetic quotations clearly. Keep provisional insights
-labelled. Preserve counterexamples instead of implying all teenagers agree.
+The research includes seven semi-structured interviews: six teenagers
+and one parent. Attribute quotations to their participants, distinguish
+interview evidence from interpretation, and preserve counterexamples.
 
 The original desk report's citation tokens are unresolved. Do not reproduce
 those tokens on slides or silently turn its numbers into established facts.
@@ -58,7 +56,7 @@ Do not invent fieldwork, photos of participants, group details or source URLs.
 
 FRAMEWORKS TO USE SELECTIVELY
 - A small Double Diamond identifying Discover and Define.
-- Scenario detail → interpretation → provisional insight → HMW.
+- Interview evidence → interpretation → insight → HMW.
 - Point of view: user + need as a verb + insight.
 Use a stakeholder map or empathy map only if it improves clarity; they are
 available for backup. Avoid a theory lecture or a diagram on every slide.
@@ -69,14 +67,13 @@ Course PDFs are content references, not a mandatory visual template.
 Keep one main message per slide, concise on-slide text and fuller speaker
 notes. Use large type, generous spacing, and clear contrast. Keep four
 insight explanations short enough to read. Use exact short excerpts rather
-than paragraphs. Do not use charts or percentages based on synthetic cases.
-Do not depict fictional characters as photographed research participants.
+than paragraphs. Use attributed interview quotes and simple travel-mode symbols.
+Only use participant photographs if the team supplies suitable images.
 Do not show agent instructions, rehearsal timecodes or speaker numbers on
 the audience-facing slides; put those in notes or a separate run sheet.
 
 DURATION CONFLICT
-The lecturer announcement supplied in the earlier conversation says FIVE
-minutes. The user's current instruction is 8–10 minutes; follow it here.
+The lecturer announcement in 05_COURSE_REQUIREMENTS.txt says FIVE minutes. The user's current instruction is 8–10 minutes; follow it here.
 Do not claim the official time limit was changed. Keep the earlier five-
 minute outline as reference only, not the production plan. No clarification
 is required to build the version the user has requested.

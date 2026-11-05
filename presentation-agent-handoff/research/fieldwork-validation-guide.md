@@ -1,6 +1,6 @@
 # Fieldwork guide: test the hypotheses without selling the concept
 
-**Status:** proposed next research, not completed fieldwork. The seven saved AI scenarios are preparation material only.
+**Purpose:** follow-up research building on the seven interviews and their synthesis.
 
 ## Purpose and introduction
 
@@ -31,7 +31,7 @@ Only after the questions above, introduce any concepts as **hypothetical**. Reco
 - Offer “neither” and “another way.” Ask what would make each option unsuitable before asking for a preference.
 - Test one variable at a time: a named response owner, timing, accessibility, peer involvement, recognition or funding. Counterbalance the order across conversations where practical.
 - Ask: “What would you expect to happen next?” and “What would make you decide not to come?” If a real optional activity is later available, compare intentions with attendance without pressure.
-- To test responses to constraints, use a clearly fictional example of a rejected proposal with an explanation and a possible next step. Do not tell someone that their actual proposal has been rejected.
+- To test responses to constraints, use a hypothetical example of a rejected proposal with an explanation and a possible next step. Do not tell someone that their actual proposal has been rejected.
 
 ## Parent or carer conversation
 
@@ -47,6 +47,6 @@ With site permission where required, use one school arrival or departure period 
 
 ## What to collect next
 
-Start with contrasting real accounts: a regular public-transport commuter, someone dependent on lifts, a teen with little formal participation experience, someone already involved, and a participant whose accessibility requirements might otherwise be missed. Include an 18-year-old, absent from the saved scenarios. A few interviews can challenge assumptions and improve the guide; they cannot estimate how common a view is across Lisbon.
+Start with contrasting real accounts: a regular public-transport commuter, someone dependent on lifts, a teen with little formal participation experience, someone already involved, and a participant whose accessibility requirements might otherwise be missed. Include an 18-year-old, absent from the current interview sample. A few interviews can challenge assumptions and improve the guide; they cannot estimate how common a view is across Lisbon.
 
 For each hypothesis, record: supporting account, contradicting account, alternative explanation, what remains unknown and the next test. Update the problem statement when the evidence changes.

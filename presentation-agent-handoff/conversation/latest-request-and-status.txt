@@ -1,20 +1,31 @@
-LATEST USER REQUEST
-“give me all the context on a folder to give to slide creating agent , for the presentation to be 8–10 minutes of speaking and show me the folder in finder open it”
+PRESENTATION REQUIREMENTS AND CURRENT STATUS
+
+Create an English presentation for the GIDT lecturer and classmates at
+Instituto Superior Técnico, 2026/27. Three people will present, with 8–10
+minutes of total speaking and natural handovers.
 
 CURRENT DELIVERABLE
-This folder is the requested presentation-agent handoff. The slide deck itself has not been created yet. The current target is 8–10 minutes of spoken delivery, with a nominal nine-minute script. This supersedes the earlier five-minute outline for deck production, but does not establish that the lecturer changed the course requirement.
+This folder contains the research, presentation-agent handoff and completed
+deck. The editable PPTX, PDF and speaker run sheet are in deliverables/.
+The deck uses the nine-minute, ten-slide plan and script:
+Speaker 1: slides 1–3; Speaker 2: slides 4–6; Speaker 3: slides 7–10.
+There are two handovers, at approximately 3:00 and 6:00.
 
-COMPLETED SINCE THE ATTACHED CONVERSATION
-All seven simulated interviews were recovered. They were not regenerated. Their dialogue was reviewed, a synthetic synthesis and combined report were created, and a neutral fieldwork guide was added. Exact quotations and links were checked. The synthesis has themes, an empathy map, four provisional insights, a point of view and four HMWs. No real interviews or field observations were added. The original research report's citation tokens remain unresolved.
+RESEARCH MATERIAL
+Seven semi-structured interview transcripts: six teenagers and one parent.
+The synthesis includes themes, an empathy map, four insights, a point of
+view and four HMWs. The combined report includes the desk research and
+interview synthesis. A follow-up guide separates recent experiences from
+concept reactions. The original desk report's citation tokens still need
+source references before external numerical claims are used on slides.
 
-PRIOR USER INTENT
-The user asked to start with potential solutions and work backwards, then requested sub-agents acting as synthetic participants. These are role-play stories, not human research. The earlier favoured concept combines a school-area audit, small budget and temporary street experiment. Keep it as internal context or optional backup; the mid-term narrative should reach reframing and HMWs rather than claim the concept is validated.
+PRESENTATION FOCUS
+Explain the challenge, research methods, relevant results, insights and
+reframed problem/HMWs. The school-area audit, small budget and temporary
+street experiment remain possible concepts for a later phase.
 
-LANGUAGE AND AUDIENCE
-Existing project writing is in English. Default deck language: English. Audience: GIDT lecturer and classmates at Instituto Superior Técnico, 2026/27.
-
-ADDITIONAL USER STEERING
-“we are 3 people presenting”
-“is it working with the handovers”
-
-The final plan assigns three continuous sections with two scripted handovers. Speaker 1: slides 1–3, approximately 0–3 minutes. Speaker 2: slides 4–6, approximately 3–6 minutes. Speaker 3: slides 7–10, approximately 6–9 minutes.
+DURATION
+The supplied lecturer announcement says five minutes and is reproduced in
+05_COURSE_REQUIREMENTS.txt. The requested handoff uses 8–10 minutes with
+three approximately equal speaking sections. The earlier five-minute
+outline remains available as a shorter alternative.

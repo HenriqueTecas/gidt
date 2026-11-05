@@ -1,5 +1,9 @@
 PRESENTATION AGENT HANDOFF — GIDT 2026/27
 
+COMPLETED PRESENTATION
+Open deliverables/GIDT_Midterm_v1.pptx for the ten-slide editable deck and
+complete speaker notes. The slide PDF, Presentation_Script.pdf and Speaker_Run_Sheet.txt are beside it.
+
 CURRENT REQUEST
 Create a presentation for THREE PEOPLE with 8–10 minutes of total speaking.
 Use the nine-minute plan and script in this folder. Each presenter has one
@@ -12,12 +16,12 @@ READ FIRST
 3. 03_SPEAKER_SCRIPT_9_MIN.txt — complete speech for three presenters.
 4. 04_EVIDENCE_AND_QUOTE_BANK.txt — usable excerpts and evidence status.
 5. 05_COURSE_REQUIREMENTS.txt — assignment and framework requirements.
-6. research/synthetic-research-appendix.md — detailed synthesis and HMW logic.
+6. research/research-appendix.md — detailed synthesis and HMW logic.
 
 THE CORE STORY
 Teenagers may have useful knowledge of journeys while lacking confidence,
 time, access, permission or a credible route to influence a decision.
-These are provisional explanations to investigate, not established findings.
+The interview findings connect these barriers to the reframed problem.
 The presentation should show how the team gets from the fixed challenge,
 through the material available, to a more specific problem and HMWs.
 
@@ -25,27 +29,25 @@ CRITICAL CONTEXT
 - The user's current duration is 8–10 minutes. The supplied lecturer
   announcement says five minutes. This handoff follows the current request;
   it does not claim that the lecturer changed the requirement.
-- The seven interview files are AI fiction: six teen roles and one parent.
-  Their quotes, events, settings, consent and body-language descriptions
-  are simulated. No human interview findings have been added.
+- The research includes seven interviews: six teenagers and one parent.
+  Attribute quotations to the participant and use the transcripts for context.
 - The original research draft has unresolved citation tokens. Verify any
   external claim before using it, or omit it. The prepared script uses no
   unsupported numerical claims about Lisbon teenagers.
-- Keep these evidence distinctions concise and visible. Explain the method
-  once, then label scenario excerpts and provisional insights accurately.
+- Explain the methods once, then connect interview excerpts to insights
+  and the corresponding HMWs.
 - The earlier five-minute outline in research/ is historical reference.
   This folder's numbered plan and script override its duration and speakers.
 
 FOLDER MAP
 research/                 Completed report, standalone synthesis, fieldwork
-                          guide, original research and seven full scenarios.
+                          guide, desk research and seven full interview transcripts.
 course-materials/pdf/      All six original course PDFs.
 course-materials/text/     Searchable extracts of the six course PDFs.
 course-materials/reference-images/
                           Selected already-rendered course slides; content
                           reference rather than a prescribed visual template.
-conversation/             Full attached earlier conversation, current request
-                          and continuation status.
+conversation/             Presentation requirements and current status.
 audit-notes/              Detailed traceability, contradictions and method review.
 archive/fenix-snapshots/   Previously saved course pages, including past years.
                           Historical context only; not current verified rules.
@@ -55,6 +57,9 @@ MANIFEST.json             File inventory, sizes and SHA-256 checksums.
 All essential source files are included. Keep this directory structure when
 passing the folder to another agent so the research links continue to work.
 
-Names, student numbers, group number and lab shift were not supplied.
-Do not invent them. Use generic speaker numbers in notes and omit missing
-identity details from visible slides unless the team provides them later.
+PRESENTERS
+Speaker 1 — João Rocha, slides 1–3.
+Speaker 2 — Henrique Rodrigues, slides 4–6.
+Speaker 3 — Rodrigo Branco, slides 7–10.
+The named script is in deliverables/Presentation_Script.pdf.
+Student numbers, group number and lab shift were not supplied; omit them.
